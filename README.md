@@ -1,2 +1,2 @@
 # Programing-Fundamentals
-Console Apps
+Console Apps done while following Soft Uni`s course Programming Fundamentals C#

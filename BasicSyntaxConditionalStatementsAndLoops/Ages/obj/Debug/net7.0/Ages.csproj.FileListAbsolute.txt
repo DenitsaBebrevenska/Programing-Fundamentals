@@ -1,0 +1,14 @@
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\Ages\bin\Debug\net7.0\Ages.exe
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\Ages\bin\Debug\net7.0\Ages.deps.json
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\Ages\bin\Debug\net7.0\Ages.runtimeconfig.json
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\Ages\bin\Debug\net7.0\Ages.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\Ages\bin\Debug\net7.0\Ages.pdb
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\Ages\obj\Debug\net7.0\Ages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\Ages\obj\Debug\net7.0\Ages.AssemblyInfoInputs.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\Ages\obj\Debug\net7.0\Ages.AssemblyInfo.cs
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\Ages\obj\Debug\net7.0\Ages.csproj.CoreCompileInputs.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\Ages\obj\Debug\net7.0\Ages.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\Ages\obj\Debug\net7.0\refint\Ages.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\Ages\obj\Debug\net7.0\Ages.pdb
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\Ages\obj\Debug\net7.0\Ages.genruntimeconfig.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\Ages\obj\Debug\net7.0\ref\Ages.dll

@@ -1,0 +1,14 @@
+C:\Users\DenicaBeb\source\repos\Arrays\EvenAndOddSubtraction\bin\Debug\net7.0\EvenAndOddSubtraction.exe
+C:\Users\DenicaBeb\source\repos\Arrays\EvenAndOddSubtraction\bin\Debug\net7.0\EvenAndOddSubtraction.deps.json
+C:\Users\DenicaBeb\source\repos\Arrays\EvenAndOddSubtraction\bin\Debug\net7.0\EvenAndOddSubtraction.runtimeconfig.json
+C:\Users\DenicaBeb\source\repos\Arrays\EvenAndOddSubtraction\bin\Debug\net7.0\EvenAndOddSubtraction.dll
+C:\Users\DenicaBeb\source\repos\Arrays\EvenAndOddSubtraction\bin\Debug\net7.0\EvenAndOddSubtraction.pdb
+C:\Users\DenicaBeb\source\repos\Arrays\EvenAndOddSubtraction\obj\Debug\net7.0\EvenAndOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenicaBeb\source\repos\Arrays\EvenAndOddSubtraction\obj\Debug\net7.0\EvenAndOddSubtraction.AssemblyInfoInputs.cache
+C:\Users\DenicaBeb\source\repos\Arrays\EvenAndOddSubtraction\obj\Debug\net7.0\EvenAndOddSubtraction.AssemblyInfo.cs
+C:\Users\DenicaBeb\source\repos\Arrays\EvenAndOddSubtraction\obj\Debug\net7.0\EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\DenicaBeb\source\repos\Arrays\EvenAndOddSubtraction\obj\Debug\net7.0\EvenAndOddSubtraction.dll
+C:\Users\DenicaBeb\source\repos\Arrays\EvenAndOddSubtraction\obj\Debug\net7.0\refint\EvenAndOddSubtraction.dll
+C:\Users\DenicaBeb\source\repos\Arrays\EvenAndOddSubtraction\obj\Debug\net7.0\EvenAndOddSubtraction.pdb
+C:\Users\DenicaBeb\source\repos\Arrays\EvenAndOddSubtraction\obj\Debug\net7.0\EvenAndOddSubtraction.genruntimeconfig.cache
+C:\Users\DenicaBeb\source\repos\Arrays\EvenAndOddSubtraction\obj\Debug\net7.0\ref\EvenAndOddSubtraction.dll

@@ -1,0 +1,14 @@
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\PrintAndSum\bin\Debug\net7.0\PrintAndSum.exe
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\PrintAndSum\bin\Debug\net7.0\PrintAndSum.deps.json
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\PrintAndSum\bin\Debug\net7.0\PrintAndSum.runtimeconfig.json
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\PrintAndSum\bin\Debug\net7.0\PrintAndSum.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\PrintAndSum\bin\Debug\net7.0\PrintAndSum.pdb
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\PrintAndSum\obj\Debug\net7.0\PrintAndSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\PrintAndSum\obj\Debug\net7.0\PrintAndSum.AssemblyInfoInputs.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\PrintAndSum\obj\Debug\net7.0\PrintAndSum.AssemblyInfo.cs
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\PrintAndSum\obj\Debug\net7.0\PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\PrintAndSum\obj\Debug\net7.0\PrintAndSum.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\PrintAndSum\obj\Debug\net7.0\refint\PrintAndSum.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\PrintAndSum\obj\Debug\net7.0\PrintAndSum.pdb
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\PrintAndSum\obj\Debug\net7.0\PrintAndSum.genruntimeconfig.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\PrintAndSum\obj\Debug\net7.0\ref\PrintAndSum.dll

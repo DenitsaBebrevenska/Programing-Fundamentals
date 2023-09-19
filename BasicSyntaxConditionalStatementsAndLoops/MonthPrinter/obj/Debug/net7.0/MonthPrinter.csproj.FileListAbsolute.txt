@@ -1,0 +1,14 @@
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\MonthPrinter\bin\Debug\net7.0\MonthPrinter.exe
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\MonthPrinter\bin\Debug\net7.0\MonthPrinter.deps.json
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\MonthPrinter\bin\Debug\net7.0\MonthPrinter.runtimeconfig.json
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\MonthPrinter\bin\Debug\net7.0\MonthPrinter.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\MonthPrinter\bin\Debug\net7.0\MonthPrinter.pdb
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\MonthPrinter\obj\Debug\net7.0\MonthPrinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\MonthPrinter\obj\Debug\net7.0\MonthPrinter.AssemblyInfoInputs.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\MonthPrinter\obj\Debug\net7.0\MonthPrinter.AssemblyInfo.cs
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\MonthPrinter\obj\Debug\net7.0\MonthPrinter.csproj.CoreCompileInputs.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\MonthPrinter\obj\Debug\net7.0\MonthPrinter.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\MonthPrinter\obj\Debug\net7.0\refint\MonthPrinter.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\MonthPrinter\obj\Debug\net7.0\MonthPrinter.pdb
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\MonthPrinter\obj\Debug\net7.0\MonthPrinter.genruntimeconfig.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\MonthPrinter\obj\Debug\net7.0\ref\MonthPrinter.dll

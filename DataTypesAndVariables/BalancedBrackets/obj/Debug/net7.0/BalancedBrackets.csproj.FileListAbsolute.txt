@@ -1,0 +1,14 @@
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\BalancedBrackets\bin\Debug\net7.0\BalancedBrackets.exe
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\BalancedBrackets\bin\Debug\net7.0\BalancedBrackets.deps.json
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\BalancedBrackets\bin\Debug\net7.0\BalancedBrackets.runtimeconfig.json
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\BalancedBrackets\bin\Debug\net7.0\BalancedBrackets.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\BalancedBrackets\bin\Debug\net7.0\BalancedBrackets.pdb
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\BalancedBrackets\obj\Debug\net7.0\BalancedBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\BalancedBrackets\obj\Debug\net7.0\BalancedBrackets.AssemblyInfoInputs.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\BalancedBrackets\obj\Debug\net7.0\BalancedBrackets.AssemblyInfo.cs
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\BalancedBrackets\obj\Debug\net7.0\BalancedBrackets.csproj.CoreCompileInputs.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\BalancedBrackets\obj\Debug\net7.0\BalancedBrackets.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\BalancedBrackets\obj\Debug\net7.0\refint\BalancedBrackets.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\BalancedBrackets\obj\Debug\net7.0\BalancedBrackets.pdb
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\BalancedBrackets\obj\Debug\net7.0\BalancedBrackets.genruntimeconfig.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\BalancedBrackets\obj\Debug\net7.0\ref\BalancedBrackets.dll

@@ -1,0 +1,14 @@
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\EvenNumber\bin\Debug\net7.0\EvenNumber.exe
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\EvenNumber\bin\Debug\net7.0\EvenNumber.deps.json
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\EvenNumber\bin\Debug\net7.0\EvenNumber.runtimeconfig.json
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\EvenNumber\bin\Debug\net7.0\EvenNumber.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\EvenNumber\bin\Debug\net7.0\EvenNumber.pdb
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\EvenNumber\obj\Debug\net7.0\EvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\EvenNumber\obj\Debug\net7.0\EvenNumber.AssemblyInfoInputs.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\EvenNumber\obj\Debug\net7.0\EvenNumber.AssemblyInfo.cs
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\EvenNumber\obj\Debug\net7.0\EvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\EvenNumber\obj\Debug\net7.0\EvenNumber.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\EvenNumber\obj\Debug\net7.0\refint\EvenNumber.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\EvenNumber\obj\Debug\net7.0\EvenNumber.pdb
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\EvenNumber\obj\Debug\net7.0\EvenNumber.genruntimeconfig.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\EvenNumber\obj\Debug\net7.0\ref\EvenNumber.dll

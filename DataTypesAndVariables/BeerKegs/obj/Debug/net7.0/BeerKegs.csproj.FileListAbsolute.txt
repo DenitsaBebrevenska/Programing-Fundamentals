@@ -1,0 +1,14 @@
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\BeerKegs\bin\Debug\net7.0\BeerKegs.exe
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\BeerKegs\bin\Debug\net7.0\BeerKegs.deps.json
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\BeerKegs\bin\Debug\net7.0\BeerKegs.runtimeconfig.json
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\BeerKegs\bin\Debug\net7.0\BeerKegs.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\BeerKegs\bin\Debug\net7.0\BeerKegs.pdb
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\BeerKegs\obj\Debug\net7.0\BeerKegs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\BeerKegs\obj\Debug\net7.0\BeerKegs.AssemblyInfoInputs.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\BeerKegs\obj\Debug\net7.0\BeerKegs.AssemblyInfo.cs
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\BeerKegs\obj\Debug\net7.0\BeerKegs.csproj.CoreCompileInputs.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\BeerKegs\obj\Debug\net7.0\BeerKegs.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\BeerKegs\obj\Debug\net7.0\refint\BeerKegs.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\BeerKegs\obj\Debug\net7.0\BeerKegs.pdb
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\BeerKegs\obj\Debug\net7.0\BeerKegs.genruntimeconfig.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\BeerKegs\obj\Debug\net7.0\ref\BeerKegs.dll

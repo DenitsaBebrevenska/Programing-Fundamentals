@@ -1,0 +1,14 @@
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\TownInfo\bin\Debug\net7.0\TownInfo.exe
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\TownInfo\bin\Debug\net7.0\TownInfo.deps.json
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\TownInfo\bin\Debug\net7.0\TownInfo.runtimeconfig.json
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\TownInfo\bin\Debug\net7.0\TownInfo.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\TownInfo\bin\Debug\net7.0\TownInfo.pdb
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\TownInfo\obj\Debug\net7.0\TownInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\TownInfo\obj\Debug\net7.0\TownInfo.AssemblyInfoInputs.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\TownInfo\obj\Debug\net7.0\TownInfo.AssemblyInfo.cs
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\TownInfo\obj\Debug\net7.0\TownInfo.csproj.CoreCompileInputs.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\TownInfo\obj\Debug\net7.0\TownInfo.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\TownInfo\obj\Debug\net7.0\refint\TownInfo.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\TownInfo\obj\Debug\net7.0\TownInfo.pdb
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\TownInfo\obj\Debug\net7.0\TownInfo.genruntimeconfig.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\TownInfo\obj\Debug\net7.0\ref\TownInfo.dll

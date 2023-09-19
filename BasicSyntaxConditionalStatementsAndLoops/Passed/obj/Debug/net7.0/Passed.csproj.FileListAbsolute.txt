@@ -1,0 +1,14 @@
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\Passed\bin\Debug\net7.0\Passed.exe
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\Passed\bin\Debug\net7.0\Passed.deps.json
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\Passed\bin\Debug\net7.0\Passed.runtimeconfig.json
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\Passed\bin\Debug\net7.0\Passed.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\Passed\bin\Debug\net7.0\Passed.pdb
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\Passed\obj\Debug\net7.0\Passed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\Passed\obj\Debug\net7.0\Passed.AssemblyInfoInputs.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\Passed\obj\Debug\net7.0\Passed.AssemblyInfo.cs
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\Passed\obj\Debug\net7.0\Passed.csproj.CoreCompileInputs.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\Passed\obj\Debug\net7.0\Passed.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\Passed\obj\Debug\net7.0\refint\Passed.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\Passed\obj\Debug\net7.0\Passed.pdb
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\Passed\obj\Debug\net7.0\Passed.genruntimeconfig.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\Passed\obj\Debug\net7.0\ref\Passed.dll

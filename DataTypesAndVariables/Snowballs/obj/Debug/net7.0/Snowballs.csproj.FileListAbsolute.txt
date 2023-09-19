@@ -1,0 +1,14 @@
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\Snowballs\bin\Debug\net7.0\Snowballs.exe
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\Snowballs\bin\Debug\net7.0\Snowballs.deps.json
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\Snowballs\bin\Debug\net7.0\Snowballs.runtimeconfig.json
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\Snowballs\bin\Debug\net7.0\Snowballs.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\Snowballs\bin\Debug\net7.0\Snowballs.pdb
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\Snowballs\obj\Debug\net7.0\Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\Snowballs\obj\Debug\net7.0\Snowballs.AssemblyInfoInputs.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\Snowballs\obj\Debug\net7.0\Snowballs.AssemblyInfo.cs
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\Snowballs\obj\Debug\net7.0\Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\Snowballs\obj\Debug\net7.0\Snowballs.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\Snowballs\obj\Debug\net7.0\refint\Snowballs.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\Snowballs\obj\Debug\net7.0\Snowballs.pdb
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\Snowballs\obj\Debug\net7.0\Snowballs.genruntimeconfig.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\Snowballs\obj\Debug\net7.0\ref\Snowballs.dll

@@ -1,0 +1,14 @@
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\FloatingEquality\bin\Debug\net7.0\FloatingEquality.exe
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\FloatingEquality\bin\Debug\net7.0\FloatingEquality.deps.json
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\FloatingEquality\bin\Debug\net7.0\FloatingEquality.runtimeconfig.json
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\FloatingEquality\bin\Debug\net7.0\FloatingEquality.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\FloatingEquality\bin\Debug\net7.0\FloatingEquality.pdb
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\FloatingEquality\obj\Debug\net7.0\FloatingEquality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\FloatingEquality\obj\Debug\net7.0\FloatingEquality.AssemblyInfoInputs.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\FloatingEquality\obj\Debug\net7.0\FloatingEquality.AssemblyInfo.cs
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\FloatingEquality\obj\Debug\net7.0\FloatingEquality.csproj.CoreCompileInputs.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\FloatingEquality\obj\Debug\net7.0\FloatingEquality.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\FloatingEquality\obj\Debug\net7.0\refint\FloatingEquality.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\FloatingEquality\obj\Debug\net7.0\FloatingEquality.pdb
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\FloatingEquality\obj\Debug\net7.0\FloatingEquality.genruntimeconfig.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\FloatingEquality\obj\Debug\net7.0\ref\FloatingEquality.dll

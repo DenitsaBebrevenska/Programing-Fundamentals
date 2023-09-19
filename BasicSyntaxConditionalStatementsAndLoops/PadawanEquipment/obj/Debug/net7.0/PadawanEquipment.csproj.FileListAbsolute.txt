@@ -1,0 +1,14 @@
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\PadawanEquipment\bin\Debug\net7.0\PadawanEquipment.exe
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\PadawanEquipment\bin\Debug\net7.0\PadawanEquipment.deps.json
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\PadawanEquipment\bin\Debug\net7.0\PadawanEquipment.runtimeconfig.json
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\PadawanEquipment\bin\Debug\net7.0\PadawanEquipment.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\PadawanEquipment\bin\Debug\net7.0\PadawanEquipment.pdb
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\PadawanEquipment\obj\Debug\net7.0\PadawanEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\PadawanEquipment\obj\Debug\net7.0\PadawanEquipment.AssemblyInfoInputs.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\PadawanEquipment\obj\Debug\net7.0\PadawanEquipment.AssemblyInfo.cs
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\PadawanEquipment\obj\Debug\net7.0\PadawanEquipment.csproj.CoreCompileInputs.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\PadawanEquipment\obj\Debug\net7.0\PadawanEquipment.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\PadawanEquipment\obj\Debug\net7.0\refint\PadawanEquipment.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\PadawanEquipment\obj\Debug\net7.0\PadawanEquipment.pdb
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\PadawanEquipment\obj\Debug\net7.0\PadawanEquipment.genruntimeconfig.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\PadawanEquipment\obj\Debug\net7.0\ref\PadawanEquipment.dll

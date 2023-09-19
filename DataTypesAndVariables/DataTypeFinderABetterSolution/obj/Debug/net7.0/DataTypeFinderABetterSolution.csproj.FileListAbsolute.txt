@@ -1,0 +1,14 @@
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\DataTypeFinderABetterSolution\bin\Debug\net7.0\DataTypeFinderABetterSolution.exe
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\DataTypeFinderABetterSolution\bin\Debug\net7.0\DataTypeFinderABetterSolution.deps.json
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\DataTypeFinderABetterSolution\bin\Debug\net7.0\DataTypeFinderABetterSolution.runtimeconfig.json
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\DataTypeFinderABetterSolution\bin\Debug\net7.0\DataTypeFinderABetterSolution.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\DataTypeFinderABetterSolution\bin\Debug\net7.0\DataTypeFinderABetterSolution.pdb
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\DataTypeFinderABetterSolution\obj\Debug\net7.0\DataTypeFinderABetterSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\DataTypeFinderABetterSolution\obj\Debug\net7.0\DataTypeFinderABetterSolution.AssemblyInfoInputs.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\DataTypeFinderABetterSolution\obj\Debug\net7.0\DataTypeFinderABetterSolution.AssemblyInfo.cs
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\DataTypeFinderABetterSolution\obj\Debug\net7.0\DataTypeFinderABetterSolution.csproj.CoreCompileInputs.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\DataTypeFinderABetterSolution\obj\Debug\net7.0\DataTypeFinderABetterSolution.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\DataTypeFinderABetterSolution\obj\Debug\net7.0\refint\DataTypeFinderABetterSolution.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\DataTypeFinderABetterSolution\obj\Debug\net7.0\DataTypeFinderABetterSolution.pdb
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\DataTypeFinderABetterSolution\obj\Debug\net7.0\DataTypeFinderABetterSolution.genruntimeconfig.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\DataTypeFinderABetterSolution\obj\Debug\net7.0\ref\DataTypeFinderABetterSolution.dll

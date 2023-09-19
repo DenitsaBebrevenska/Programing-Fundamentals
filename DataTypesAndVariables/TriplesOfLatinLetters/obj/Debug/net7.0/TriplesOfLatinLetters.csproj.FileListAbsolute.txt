@@ -1,0 +1,14 @@
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\TriplesOfLatinLetters\bin\Debug\net7.0\TriplesOfLatinLetters.exe
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\TriplesOfLatinLetters\bin\Debug\net7.0\TriplesOfLatinLetters.deps.json
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\TriplesOfLatinLetters\bin\Debug\net7.0\TriplesOfLatinLetters.runtimeconfig.json
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\TriplesOfLatinLetters\bin\Debug\net7.0\TriplesOfLatinLetters.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\TriplesOfLatinLetters\bin\Debug\net7.0\TriplesOfLatinLetters.pdb
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\TriplesOfLatinLetters\obj\Debug\net7.0\TriplesOfLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\TriplesOfLatinLetters\obj\Debug\net7.0\TriplesOfLatinLetters.AssemblyInfoInputs.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\TriplesOfLatinLetters\obj\Debug\net7.0\TriplesOfLatinLetters.AssemblyInfo.cs
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\TriplesOfLatinLetters\obj\Debug\net7.0\TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\TriplesOfLatinLetters\obj\Debug\net7.0\TriplesOfLatinLetters.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\TriplesOfLatinLetters\obj\Debug\net7.0\refint\TriplesOfLatinLetters.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\TriplesOfLatinLetters\obj\Debug\net7.0\TriplesOfLatinLetters.pdb
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\TriplesOfLatinLetters\obj\Debug\net7.0\TriplesOfLatinLetters.genruntimeconfig.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\TriplesOfLatinLetters\obj\Debug\net7.0\ref\TriplesOfLatinLetters.dll

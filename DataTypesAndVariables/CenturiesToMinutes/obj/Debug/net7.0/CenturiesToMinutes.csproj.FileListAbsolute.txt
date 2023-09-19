@@ -1,0 +1,14 @@
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\CenturiesToMinutes\bin\Debug\net7.0\CenturiesToMinutes.exe
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\CenturiesToMinutes\bin\Debug\net7.0\CenturiesToMinutes.deps.json
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\CenturiesToMinutes\bin\Debug\net7.0\CenturiesToMinutes.runtimeconfig.json
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\CenturiesToMinutes\bin\Debug\net7.0\CenturiesToMinutes.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\CenturiesToMinutes\bin\Debug\net7.0\CenturiesToMinutes.pdb
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\CenturiesToMinutes\obj\Debug\net7.0\CenturiesToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\CenturiesToMinutes\obj\Debug\net7.0\CenturiesToMinutes.AssemblyInfoInputs.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\CenturiesToMinutes\obj\Debug\net7.0\CenturiesToMinutes.AssemblyInfo.cs
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\CenturiesToMinutes\obj\Debug\net7.0\CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\CenturiesToMinutes\obj\Debug\net7.0\CenturiesToMinutes.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\CenturiesToMinutes\obj\Debug\net7.0\refint\CenturiesToMinutes.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\CenturiesToMinutes\obj\Debug\net7.0\CenturiesToMinutes.pdb
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\CenturiesToMinutes\obj\Debug\net7.0\CenturiesToMinutes.genruntimeconfig.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\CenturiesToMinutes\obj\Debug\net7.0\ref\CenturiesToMinutes.dll

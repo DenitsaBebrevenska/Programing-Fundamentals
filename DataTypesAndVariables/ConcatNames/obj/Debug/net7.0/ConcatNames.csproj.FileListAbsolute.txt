@@ -1,0 +1,14 @@
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\ConcatNames\bin\Debug\net7.0\ConcatNames.exe
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\ConcatNames\bin\Debug\net7.0\ConcatNames.deps.json
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\ConcatNames\bin\Debug\net7.0\ConcatNames.runtimeconfig.json
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\ConcatNames\bin\Debug\net7.0\ConcatNames.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\ConcatNames\bin\Debug\net7.0\ConcatNames.pdb
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\ConcatNames\obj\Debug\net7.0\ConcatNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\ConcatNames\obj\Debug\net7.0\ConcatNames.AssemblyInfoInputs.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\ConcatNames\obj\Debug\net7.0\ConcatNames.AssemblyInfo.cs
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\ConcatNames\obj\Debug\net7.0\ConcatNames.csproj.CoreCompileInputs.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\ConcatNames\obj\Debug\net7.0\ConcatNames.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\ConcatNames\obj\Debug\net7.0\refint\ConcatNames.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\ConcatNames\obj\Debug\net7.0\ConcatNames.pdb
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\ConcatNames\obj\Debug\net7.0\ConcatNames.genruntimeconfig.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\ConcatNames\obj\Debug\net7.0\ref\ConcatNames.dll

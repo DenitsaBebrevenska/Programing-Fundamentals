@@ -1,0 +1,14 @@
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\bin\Debug\net7.0\RefactorVolumeOfPyramid.exe
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\bin\Debug\net7.0\RefactorVolumeOfPyramid.deps.json
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\bin\Debug\net7.0\RefactorVolumeOfPyramid.runtimeconfig.json
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\bin\Debug\net7.0\RefactorVolumeOfPyramid.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\bin\Debug\net7.0\RefactorVolumeOfPyramid.pdb
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\obj\Debug\net7.0\RefactorVolumeOfPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\obj\Debug\net7.0\RefactorVolumeOfPyramid.AssemblyInfoInputs.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\obj\Debug\net7.0\RefactorVolumeOfPyramid.AssemblyInfo.cs
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\obj\Debug\net7.0\RefactorVolumeOfPyramid.csproj.CoreCompileInputs.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\obj\Debug\net7.0\RefactorVolumeOfPyramid.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\obj\Debug\net7.0\refint\RefactorVolumeOfPyramid.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\obj\Debug\net7.0\RefactorVolumeOfPyramid.pdb
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\obj\Debug\net7.0\RefactorVolumeOfPyramid.genruntimeconfig.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\RefactorVolumeOfPyramid\obj\Debug\net7.0\ref\RefactorVolumeOfPyramid.dll

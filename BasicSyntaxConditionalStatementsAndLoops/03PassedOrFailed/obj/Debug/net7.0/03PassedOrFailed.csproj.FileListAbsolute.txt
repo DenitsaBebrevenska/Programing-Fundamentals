@@ -1,0 +1,14 @@
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\03PassedOrFailed\bin\Debug\net7.0\03PassedOrFailed.exe
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\03PassedOrFailed\bin\Debug\net7.0\03PassedOrFailed.deps.json
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\03PassedOrFailed\bin\Debug\net7.0\03PassedOrFailed.runtimeconfig.json
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\03PassedOrFailed\bin\Debug\net7.0\03PassedOrFailed.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\03PassedOrFailed\bin\Debug\net7.0\03PassedOrFailed.pdb
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\03PassedOrFailed\obj\Debug\net7.0\03PassedOrFailed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\03PassedOrFailed\obj\Debug\net7.0\03PassedOrFailed.AssemblyInfoInputs.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\03PassedOrFailed\obj\Debug\net7.0\03PassedOrFailed.AssemblyInfo.cs
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\03PassedOrFailed\obj\Debug\net7.0\03PassedOrFailed.csproj.CoreCompileInputs.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\03PassedOrFailed\obj\Debug\net7.0\03PassedOrFailed.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\03PassedOrFailed\obj\Debug\net7.0\refint\03PassedOrFailed.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\03PassedOrFailed\obj\Debug\net7.0\03PassedOrFailed.pdb
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\03PassedOrFailed\obj\Debug\net7.0\03PassedOrFailed.genruntimeconfig.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\03PassedOrFailed\obj\Debug\net7.0\ref\03PassedOrFailed.dll

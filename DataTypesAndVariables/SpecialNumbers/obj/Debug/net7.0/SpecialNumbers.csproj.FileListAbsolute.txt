@@ -1,0 +1,14 @@
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\SpecialNumbers\bin\Debug\net7.0\SpecialNumbers.exe
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\SpecialNumbers\bin\Debug\net7.0\SpecialNumbers.deps.json
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\SpecialNumbers\bin\Debug\net7.0\SpecialNumbers.runtimeconfig.json
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\SpecialNumbers\bin\Debug\net7.0\SpecialNumbers.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\SpecialNumbers\bin\Debug\net7.0\SpecialNumbers.pdb
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\SpecialNumbers\obj\Debug\net7.0\SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\SpecialNumbers\obj\Debug\net7.0\SpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\SpecialNumbers\obj\Debug\net7.0\SpecialNumbers.AssemblyInfo.cs
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\SpecialNumbers\obj\Debug\net7.0\SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\SpecialNumbers\obj\Debug\net7.0\SpecialNumbers.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\SpecialNumbers\obj\Debug\net7.0\refint\SpecialNumbers.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\SpecialNumbers\obj\Debug\net7.0\SpecialNumbers.pdb
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\SpecialNumbers\obj\Debug\net7.0\SpecialNumbers.genruntimeconfig.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\SpecialNumbers\obj\Debug\net7.0\ref\SpecialNumbers.dll

@@ -1,0 +1,14 @@
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\DivisibleBy3\bin\Debug\net7.0\DivisibleBy3.exe
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\DivisibleBy3\bin\Debug\net7.0\DivisibleBy3.deps.json
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\DivisibleBy3\bin\Debug\net7.0\DivisibleBy3.runtimeconfig.json
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\DivisibleBy3\bin\Debug\net7.0\DivisibleBy3.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\DivisibleBy3\bin\Debug\net7.0\DivisibleBy3.pdb
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\DivisibleBy3\obj\Debug\net7.0\DivisibleBy3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\DivisibleBy3\obj\Debug\net7.0\DivisibleBy3.AssemblyInfoInputs.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\DivisibleBy3\obj\Debug\net7.0\DivisibleBy3.AssemblyInfo.cs
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\DivisibleBy3\obj\Debug\net7.0\DivisibleBy3.csproj.CoreCompileInputs.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\DivisibleBy3\obj\Debug\net7.0\DivisibleBy3.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\DivisibleBy3\obj\Debug\net7.0\refint\DivisibleBy3.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\DivisibleBy3\obj\Debug\net7.0\DivisibleBy3.pdb
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\DivisibleBy3\obj\Debug\net7.0\DivisibleBy3.genruntimeconfig.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\DivisibleBy3\obj\Debug\net7.0\ref\DivisibleBy3.dll

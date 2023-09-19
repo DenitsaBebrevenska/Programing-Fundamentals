@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "EvenNumber/1.0.0": {
+        "runtime": {
+          "EvenNumber.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EvenNumber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

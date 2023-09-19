@@ -1,0 +1,14 @@
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\DecryptingMessage\bin\Debug\net7.0\DecryptingMessage.exe
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\DecryptingMessage\bin\Debug\net7.0\DecryptingMessage.deps.json
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\DecryptingMessage\bin\Debug\net7.0\DecryptingMessage.runtimeconfig.json
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\DecryptingMessage\bin\Debug\net7.0\DecryptingMessage.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\DecryptingMessage\bin\Debug\net7.0\DecryptingMessage.pdb
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\DecryptingMessage\obj\Debug\net7.0\DecryptingMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\DecryptingMessage\obj\Debug\net7.0\DecryptingMessage.AssemblyInfoInputs.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\DecryptingMessage\obj\Debug\net7.0\DecryptingMessage.AssemblyInfo.cs
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\DecryptingMessage\obj\Debug\net7.0\DecryptingMessage.csproj.CoreCompileInputs.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\DecryptingMessage\obj\Debug\net7.0\DecryptingMessage.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\DecryptingMessage\obj\Debug\net7.0\refint\DecryptingMessage.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\DecryptingMessage\obj\Debug\net7.0\DecryptingMessage.pdb
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\DecryptingMessage\obj\Debug\net7.0\DecryptingMessage.genruntimeconfig.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\DecryptingMessage\obj\Debug\net7.0\ref\DecryptingMessage.dll

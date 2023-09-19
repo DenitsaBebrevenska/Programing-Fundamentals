@@ -1,0 +1,14 @@
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\TheatrePromotion\bin\Debug\net7.0\TheatrePromotion.exe
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\TheatrePromotion\bin\Debug\net7.0\TheatrePromotion.deps.json
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\TheatrePromotion\bin\Debug\net7.0\TheatrePromotion.runtimeconfig.json
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\TheatrePromotion\bin\Debug\net7.0\TheatrePromotion.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\TheatrePromotion\bin\Debug\net7.0\TheatrePromotion.pdb
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\TheatrePromotion\obj\Debug\net7.0\TheatrePromotion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\TheatrePromotion\obj\Debug\net7.0\TheatrePromotion.AssemblyInfoInputs.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\TheatrePromotion\obj\Debug\net7.0\TheatrePromotion.AssemblyInfo.cs
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\TheatrePromotion\obj\Debug\net7.0\TheatrePromotion.csproj.CoreCompileInputs.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\TheatrePromotion\obj\Debug\net7.0\TheatrePromotion.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\TheatrePromotion\obj\Debug\net7.0\refint\TheatrePromotion.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\TheatrePromotion\obj\Debug\net7.0\TheatrePromotion.pdb
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\TheatrePromotion\obj\Debug\net7.0\TheatrePromotion.genruntimeconfig.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\TheatrePromotion\obj\Debug\net7.0\ref\TheatrePromotion.dll

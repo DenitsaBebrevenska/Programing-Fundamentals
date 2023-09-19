@@ -1,0 +1,14 @@
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\SpiceMustFlow\bin\Debug\net7.0\SpiceMustFlow.exe
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\SpiceMustFlow\bin\Debug\net7.0\SpiceMustFlow.deps.json
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\SpiceMustFlow\bin\Debug\net7.0\SpiceMustFlow.runtimeconfig.json
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\SpiceMustFlow\bin\Debug\net7.0\SpiceMustFlow.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\SpiceMustFlow\bin\Debug\net7.0\SpiceMustFlow.pdb
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\SpiceMustFlow\obj\Debug\net7.0\SpiceMustFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\SpiceMustFlow\obj\Debug\net7.0\SpiceMustFlow.AssemblyInfoInputs.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\SpiceMustFlow\obj\Debug\net7.0\SpiceMustFlow.AssemblyInfo.cs
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\SpiceMustFlow\obj\Debug\net7.0\SpiceMustFlow.csproj.CoreCompileInputs.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\SpiceMustFlow\obj\Debug\net7.0\SpiceMustFlow.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\SpiceMustFlow\obj\Debug\net7.0\refint\SpiceMustFlow.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\SpiceMustFlow\obj\Debug\net7.0\SpiceMustFlow.pdb
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\SpiceMustFlow\obj\Debug\net7.0\SpiceMustFlow.genruntimeconfig.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\SpiceMustFlow\obj\Debug\net7.0\ref\SpiceMustFlow.dll

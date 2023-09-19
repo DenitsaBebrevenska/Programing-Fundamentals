@@ -1,0 +1,14 @@
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\bin\Debug\net7.0\PrintPartOfASCIITable.exe
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\bin\Debug\net7.0\PrintPartOfASCIITable.deps.json
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\bin\Debug\net7.0\PrintPartOfASCIITable.runtimeconfig.json
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\bin\Debug\net7.0\PrintPartOfASCIITable.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\bin\Debug\net7.0\PrintPartOfASCIITable.pdb
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\obj\Debug\net7.0\PrintPartOfASCIITable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\obj\Debug\net7.0\PrintPartOfASCIITable.AssemblyInfoInputs.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\obj\Debug\net7.0\PrintPartOfASCIITable.AssemblyInfo.cs
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\obj\Debug\net7.0\PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\obj\Debug\net7.0\PrintPartOfASCIITable.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\obj\Debug\net7.0\refint\PrintPartOfASCIITable.dll
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\obj\Debug\net7.0\PrintPartOfASCIITable.pdb
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\obj\Debug\net7.0\PrintPartOfASCIITable.genruntimeconfig.cache
+C:\Users\DenicaBeb\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\obj\Debug\net7.0\ref\PrintPartOfASCIITable.dll

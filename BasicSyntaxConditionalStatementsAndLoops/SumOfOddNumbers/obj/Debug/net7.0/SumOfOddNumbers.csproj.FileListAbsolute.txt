@@ -1,0 +1,14 @@
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\SumOfOddNumbers\bin\Debug\net7.0\SumOfOddNumbers.exe
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\SumOfOddNumbers\bin\Debug\net7.0\SumOfOddNumbers.deps.json
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\SumOfOddNumbers\bin\Debug\net7.0\SumOfOddNumbers.runtimeconfig.json
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\SumOfOddNumbers\bin\Debug\net7.0\SumOfOddNumbers.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\SumOfOddNumbers\bin\Debug\net7.0\SumOfOddNumbers.pdb
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\SumOfOddNumbers\obj\Debug\net7.0\SumOfOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\SumOfOddNumbers\obj\Debug\net7.0\SumOfOddNumbers.AssemblyInfoInputs.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\SumOfOddNumbers\obj\Debug\net7.0\SumOfOddNumbers.AssemblyInfo.cs
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\SumOfOddNumbers\obj\Debug\net7.0\SumOfOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\SumOfOddNumbers\obj\Debug\net7.0\SumOfOddNumbers.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\SumOfOddNumbers\obj\Debug\net7.0\refint\SumOfOddNumbers.dll
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\SumOfOddNumbers\obj\Debug\net7.0\SumOfOddNumbers.pdb
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\SumOfOddNumbers\obj\Debug\net7.0\SumOfOddNumbers.genruntimeconfig.cache
+C:\Users\DenicaBeb\source\repos\Programming Fundamentals 2023\BasicSyntaxConditionalStatementsAndLoops\SumOfOddNumbers\obj\Debug\net7.0\ref\SumOfOddNumbers.dll

@@ -1,0 +1,14 @@
+C:\Users\DenicaBeb\source\repos\Programing-Fundamentals\Arrays\Train\bin\Debug\net7.0\Train.exe
+C:\Users\DenicaBeb\source\repos\Programing-Fundamentals\Arrays\Train\bin\Debug\net7.0\Train.deps.json
+C:\Users\DenicaBeb\source\repos\Programing-Fundamentals\Arrays\Train\bin\Debug\net7.0\Train.runtimeconfig.json
+C:\Users\DenicaBeb\source\repos\Programing-Fundamentals\Arrays\Train\bin\Debug\net7.0\Train.dll
+C:\Users\DenicaBeb\source\repos\Programing-Fundamentals\Arrays\Train\bin\Debug\net7.0\Train.pdb
+C:\Users\DenicaBeb\source\repos\Programing-Fundamentals\Arrays\Train\obj\Debug\net7.0\Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenicaBeb\source\repos\Programing-Fundamentals\Arrays\Train\obj\Debug\net7.0\Train.AssemblyInfoInputs.cache
+C:\Users\DenicaBeb\source\repos\Programing-Fundamentals\Arrays\Train\obj\Debug\net7.0\Train.AssemblyInfo.cs
+C:\Users\DenicaBeb\source\repos\Programing-Fundamentals\Arrays\Train\obj\Debug\net7.0\Train.csproj.CoreCompileInputs.cache
+C:\Users\DenicaBeb\source\repos\Programing-Fundamentals\Arrays\Train\obj\Debug\net7.0\Train.dll
+C:\Users\DenicaBeb\source\repos\Programing-Fundamentals\Arrays\Train\obj\Debug\net7.0\refint\Train.dll
+C:\Users\DenicaBeb\source\repos\Programing-Fundamentals\Arrays\Train\obj\Debug\net7.0\Train.pdb
+C:\Users\DenicaBeb\source\repos\Programing-Fundamentals\Arrays\Train\obj\Debug\net7.0\Train.genruntimeconfig.cache
+C:\Users\DenicaBeb\source\repos\Programing-Fundamentals\Arrays\Train\obj\Debug\net7.0\ref\Train.dll

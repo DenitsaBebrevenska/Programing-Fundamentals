@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DenicaBeb\\source\\repos\\Arrays\\SumEvenNumbers\\SumEvenNumbers.csproj": {}
+    "C:\\Users\\DenicaBeb\\source\\repos\\Programing-Fundamentals\\Arrays\\SumEvenNumbers\\SumEvenNumbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DenicaBeb\\source\\repos\\Arrays\\SumEvenNumbers\\SumEvenNumbers.csproj": {
+    "C:\\Users\\DenicaBeb\\source\\repos\\Programing-Fundamentals\\Arrays\\SumEvenNumbers\\SumEvenNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DenicaBeb\\source\\repos\\Arrays\\SumEvenNumbers\\SumEvenNumbers.csproj",
+        "projectUniqueName": "C:\\Users\\DenicaBeb\\source\\repos\\Programing-Fundamentals\\Arrays\\SumEvenNumbers\\SumEvenNumbers.csproj",
         "projectName": "SumEvenNumbers",
-        "projectPath": "C:\\Users\\DenicaBeb\\source\\repos\\Arrays\\SumEvenNumbers\\SumEvenNumbers.csproj",
+        "projectPath": "C:\\Users\\DenicaBeb\\source\\repos\\Programing-Fundamentals\\Arrays\\SumEvenNumbers\\SumEvenNumbers.csproj",
         "packagesPath": "C:\\Users\\DenicaBeb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DenicaBeb\\source\\repos\\Arrays\\SumEvenNumbers\\obj\\",
+        "outputPath": "C:\\Users\\DenicaBeb\\Source\\Repos\\Programing-Fundamentals\\Arrays\\SumEvenNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

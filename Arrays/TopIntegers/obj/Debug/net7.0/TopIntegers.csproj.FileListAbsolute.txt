@@ -1,0 +1,14 @@
+C:\Users\DenicaBeb\source\repos\Programing-Fundamentals\Arrays\TopIntegers\bin\Debug\net7.0\TopIntegers.exe
+C:\Users\DenicaBeb\source\repos\Programing-Fundamentals\Arrays\TopIntegers\bin\Debug\net7.0\TopIntegers.deps.json
+C:\Users\DenicaBeb\source\repos\Programing-Fundamentals\Arrays\TopIntegers\bin\Debug\net7.0\TopIntegers.runtimeconfig.json
+C:\Users\DenicaBeb\source\repos\Programing-Fundamentals\Arrays\TopIntegers\bin\Debug\net7.0\TopIntegers.dll
+C:\Users\DenicaBeb\source\repos\Programing-Fundamentals\Arrays\TopIntegers\bin\Debug\net7.0\TopIntegers.pdb
+C:\Users\DenicaBeb\source\repos\Programing-Fundamentals\Arrays\TopIntegers\obj\Debug\net7.0\TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenicaBeb\source\repos\Programing-Fundamentals\Arrays\TopIntegers\obj\Debug\net7.0\TopIntegers.AssemblyInfoInputs.cache
+C:\Users\DenicaBeb\source\repos\Programing-Fundamentals\Arrays\TopIntegers\obj\Debug\net7.0\TopIntegers.AssemblyInfo.cs
+C:\Users\DenicaBeb\source\repos\Programing-Fundamentals\Arrays\TopIntegers\obj\Debug\net7.0\TopIntegers.csproj.CoreCompileInputs.cache
+C:\Users\DenicaBeb\source\repos\Programing-Fundamentals\Arrays\TopIntegers\obj\Debug\net7.0\TopIntegers.dll
+C:\Users\DenicaBeb\source\repos\Programing-Fundamentals\Arrays\TopIntegers\obj\Debug\net7.0\refint\TopIntegers.dll
+C:\Users\DenicaBeb\source\repos\Programing-Fundamentals\Arrays\TopIntegers\obj\Debug\net7.0\TopIntegers.pdb
+C:\Users\DenicaBeb\source\repos\Programing-Fundamentals\Arrays\TopIntegers\obj\Debug\net7.0\TopIntegers.genruntimeconfig.cache
+C:\Users\DenicaBeb\source\repos\Programing-Fundamentals\Arrays\TopIntegers\obj\Debug\net7.0\ref\TopIntegers.dll

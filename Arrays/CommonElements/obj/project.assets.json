@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DenicaBeb\\source\\repos\\Arrays\\CommonElements\\CommonElements.csproj",
+      "projectUniqueName": "C:\\Users\\DenicaBeb\\Source\\Repos\\Programing-Fundamentals\\Arrays\\CommonElements\\CommonElements.csproj",
       "projectName": "CommonElements",
-      "projectPath": "C:\\Users\\DenicaBeb\\source\\repos\\Arrays\\CommonElements\\CommonElements.csproj",
+      "projectPath": "C:\\Users\\DenicaBeb\\Source\\Repos\\Programing-Fundamentals\\Arrays\\CommonElements\\CommonElements.csproj",
       "packagesPath": "C:\\Users\\DenicaBeb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DenicaBeb\\source\\repos\\Arrays\\CommonElements\\obj\\",
+      "outputPath": "C:\\Users\\DenicaBeb\\Source\\Repos\\Programing-Fundamentals\\Arrays\\CommonElements\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

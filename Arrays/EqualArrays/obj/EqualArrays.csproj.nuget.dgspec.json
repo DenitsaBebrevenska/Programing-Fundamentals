@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DenicaBeb\\source\\repos\\Arrays\\EqualArrays\\EqualArrays.csproj": {}
+    "C:\\Users\\DenicaBeb\\source\\repos\\Programing-Fundamentals\\Arrays\\EqualArrays\\EqualArrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DenicaBeb\\source\\repos\\Arrays\\EqualArrays\\EqualArrays.csproj": {
+    "C:\\Users\\DenicaBeb\\source\\repos\\Programing-Fundamentals\\Arrays\\EqualArrays\\EqualArrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DenicaBeb\\source\\repos\\Arrays\\EqualArrays\\EqualArrays.csproj",
+        "projectUniqueName": "C:\\Users\\DenicaBeb\\source\\repos\\Programing-Fundamentals\\Arrays\\EqualArrays\\EqualArrays.csproj",
         "projectName": "EqualArrays",
-        "projectPath": "C:\\Users\\DenicaBeb\\source\\repos\\Arrays\\EqualArrays\\EqualArrays.csproj",
+        "projectPath": "C:\\Users\\DenicaBeb\\source\\repos\\Programing-Fundamentals\\Arrays\\EqualArrays\\EqualArrays.csproj",
         "packagesPath": "C:\\Users\\DenicaBeb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DenicaBeb\\source\\repos\\Arrays\\EqualArrays\\obj\\",
+        "outputPath": "C:\\Users\\DenicaBeb\\Source\\Repos\\Programing-Fundamentals\\Arrays\\EqualArrays\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

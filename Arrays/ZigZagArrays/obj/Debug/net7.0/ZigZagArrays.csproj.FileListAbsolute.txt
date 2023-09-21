@@ -1,0 +1,14 @@
+C:\Users\DenicaBeb\Source\Repos\Programing-Fundamentals\Arrays\ZigZagArrays\bin\Debug\net7.0\ZigZagArrays.exe
+C:\Users\DenicaBeb\Source\Repos\Programing-Fundamentals\Arrays\ZigZagArrays\bin\Debug\net7.0\ZigZagArrays.deps.json
+C:\Users\DenicaBeb\Source\Repos\Programing-Fundamentals\Arrays\ZigZagArrays\bin\Debug\net7.0\ZigZagArrays.runtimeconfig.json
+C:\Users\DenicaBeb\Source\Repos\Programing-Fundamentals\Arrays\ZigZagArrays\bin\Debug\net7.0\ZigZagArrays.dll
+C:\Users\DenicaBeb\Source\Repos\Programing-Fundamentals\Arrays\ZigZagArrays\bin\Debug\net7.0\ZigZagArrays.pdb
+C:\Users\DenicaBeb\Source\Repos\Programing-Fundamentals\Arrays\ZigZagArrays\obj\Debug\net7.0\ZigZagArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenicaBeb\Source\Repos\Programing-Fundamentals\Arrays\ZigZagArrays\obj\Debug\net7.0\ZigZagArrays.AssemblyInfoInputs.cache
+C:\Users\DenicaBeb\Source\Repos\Programing-Fundamentals\Arrays\ZigZagArrays\obj\Debug\net7.0\ZigZagArrays.AssemblyInfo.cs
+C:\Users\DenicaBeb\Source\Repos\Programing-Fundamentals\Arrays\ZigZagArrays\obj\Debug\net7.0\ZigZagArrays.csproj.CoreCompileInputs.cache
+C:\Users\DenicaBeb\Source\Repos\Programing-Fundamentals\Arrays\ZigZagArrays\obj\Debug\net7.0\ZigZagArrays.dll
+C:\Users\DenicaBeb\Source\Repos\Programing-Fundamentals\Arrays\ZigZagArrays\obj\Debug\net7.0\refint\ZigZagArrays.dll
+C:\Users\DenicaBeb\Source\Repos\Programing-Fundamentals\Arrays\ZigZagArrays\obj\Debug\net7.0\ZigZagArrays.pdb
+C:\Users\DenicaBeb\Source\Repos\Programing-Fundamentals\Arrays\ZigZagArrays\obj\Debug\net7.0\ZigZagArrays.genruntimeconfig.cache
+C:\Users\DenicaBeb\Source\Repos\Programing-Fundamentals\Arrays\ZigZagArrays\obj\Debug\net7.0\ref\ZigZagArrays.dll

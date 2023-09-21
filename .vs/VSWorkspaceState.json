@@ -1,4 +1,9 @@
 {
-  "ExpandedNodes": [],
+  "ExpandedNodes": [
+    "",
+    "\\Arrays",
+    "\\Arrays\\ZigZagArrays"
+  ],
+  "SelectedNode": "\\Arrays\\ZigZagArrays\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

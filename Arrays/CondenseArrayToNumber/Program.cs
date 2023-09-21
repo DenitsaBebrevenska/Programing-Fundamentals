@@ -5,16 +5,17 @@
 		static void Main(string[] args)
 		{
 			int[] input = Console.ReadLine().Split(" ").Select(int.Parse).ToArray();
-			int[] condencedNumbers = new int[input.Length - 1];
-
-			// 2 10 3 - 3 elements, 0 , 1 , 2 indexes
-			// 12 13 - 2 elements , 0 , 1 index
-			// 25 null - 1 element, 0 index
-			for (int i = ; i < length; i++)
+			
+			while (input.Length > 1)
 			{
-
+				int[] condensed = new int[input.Length - 1];
+				for (int i = 0; i < condensed.Length; i++)
+				{
+					condensed[i] = input[i] + input[i + 1];
+				}
+				input = condensed;
 			}
-
+			Console.WriteLine(input[0]);
         }
 	}
 }

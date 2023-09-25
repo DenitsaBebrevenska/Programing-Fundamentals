@@ -1,1 +1,3 @@
-Made a console game of Roc Paper Scissors with available restart.
+#Rock Paper Scissors Game#
+
+Made a console game of Rock Paper Scissors with available restart.

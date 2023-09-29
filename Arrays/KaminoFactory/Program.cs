@@ -1,7 +1,4 @@
-﻿using System.Linq;
-using System.Text.RegularExpressions;
-
-namespace KaminoFactory
+﻿namespace KaminoFactory
 {
 	internal class Program
 	{
@@ -9,73 +6,62 @@ namespace KaminoFactory
 		{
 			int sequenceLenght = int.Parse(Console.ReadLine());
 			string input = Console.ReadLine();
-			int longestSequence = 1, linesCount = 0, bestLineNumber = 0, bestStartingIndex = 0, bestStartingIndexAllLines = 0,
-				bestSequenceSum = 0;
-			int[] bestSequence = new int[sequenceLenght];
 			
-			while (input != "Clone them!") 
+			int bestLineSum = 0;
+			int bestIndexOfAll = 0;
+			int lineCounter = 0;
+			int bestLineNumber = 0;
+			int longestSequenceOfAll = -1; //-1 in case the input has no 1s at all...
+			int[] bestSequence = new int[sequenceLenght];
+
+			while (input != "Clone them!")
 			{
-				int[] currentLine = input.Split('!', StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray(); 
-																  
-				int currentLineIndex = 0, currentLineMaxSequence = 1;
-			    int currentSequence = 1;
+				int[] currentLine = input.Split('!', StringSplitOptions.RemoveEmptyEntries)
+					                      .Select(int.Parse)
+					                      .ToArray();
+				lineCounter++;
 				int currentLineSum = currentLine.Sum();
-				linesCount++;
-				for (int i = 0; i < currentLine.Length - 1; i++) //sequence finder
+				int currentSequence = 0;
+				int longestSequenceThisLine = 0;
+				int bestLineIndex = 0;
+				int currentLineBestIndex = 0;
+				for (int i = 0; i < currentLine.Length; i++)
 				{
-					if (currentLine[i] == 1) 
+					if (currentLine[i] == 1)
 					{
-						if (currentLine[i] == currentLine[i + 1])
+						if (currentSequence == 0)
 						{
-							if (currentSequence == 1) //save the starting index
-							{
-								currentLineIndex = i;
-							}
-							currentSequence++;
-						}        //this is end of sequence 
-						else if (currentLine[i] != currentLine[i+1])
-						{
-							if (currentSequence > currentLineMaxSequence)
-							{
-								currentLineMaxSequence = currentSequence;
-								bestStartingIndex = currentLineIndex;
-								currentSequence = 1;
-							}
+							currentLineBestIndex = i;
 						}
+						currentSequence++;
+					}
+					else
+					{
+						currentSequence = 0;
+					}
+
+					if (currentSequence > longestSequenceThisLine)
+					{
+						longestSequenceThisLine = currentSequence;
+						bestLineIndex = currentLineBestIndex;
 					}
 				}
-				if (currentLineMaxSequence > longestSequence) //check max sequence thus far for all lines
+				if (longestSequenceThisLine > longestSequenceOfAll ||
+						(longestSequenceThisLine == longestSequenceOfAll && bestLineIndex < bestIndexOfAll) ||
+						(longestSequenceThisLine == longestSequenceOfAll && bestLineIndex == bestIndexOfAll
+						&& currentLineSum > bestLineSum))
 				{
-					longestSequence = currentLineMaxSequence;
+					longestSequenceOfAll = longestSequenceThisLine;
+					bestIndexOfAll = bestLineIndex;
+					bestLineSum = currentLineSum;
 					bestSequence = currentLine;
-					bestStartingIndexAllLines = bestStartingIndex;
-					bestSequenceSum = currentLineSum;
-					bestLineNumber = linesCount;
-					
+					bestLineNumber = lineCounter;
 				}
-				else if (currentLineMaxSequence == longestSequence) // if equal sequences, left most starting index wins
-				{
-					if (bestStartingIndex < bestStartingIndexAllLines)
-					{
-						bestSequence = currentLine;
-						bestStartingIndexAllLines = bestStartingIndex;
-						bestSequenceSum = currentLineSum;
-						bestLineNumber = linesCount;
-					}
-					else if (bestStartingIndex == bestStartingIndexAllLines) //if same starting index
-					{
-						if (currentLineSum > bestSequenceSum) //bigger sum of the two wins
-						{
-							bestSequenceSum = currentLineSum;
-							bestSequence = currentLine;
-							bestLineNumber = linesCount;
-						}
-					} 
-				}
+
 				input = Console.ReadLine();
 			}
 			string output = string.Join(" ", bestSequence);
-			Console.WriteLine($"Best DNA sample {bestLineNumber} with sum: {bestSequenceSum}.");
+			Console.WriteLine($"Best DNA sample {bestLineNumber} with sum: {bestLineSum}.");
 			Console.WriteLine(output);
 		}
 	}

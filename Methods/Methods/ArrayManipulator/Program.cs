@@ -6,7 +6,7 @@ namespace ArrayManipulator
 	{
 		static void Main(string[] args)
 		{
-			// it is 50 /100 and needs tons of improving
+			// it is 70 /100 and needs tons of improving
 			int[] initialArray = Console.ReadLine().Split().Select(int.Parse).ToArray();
 			int arrayLenght = initialArray.Length;
 			string manipulation;

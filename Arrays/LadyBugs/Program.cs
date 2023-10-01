@@ -9,12 +9,8 @@ namespace LadyBugs
 			int fieldSize = int.Parse(Console.ReadLine());
 			int[] startingLocations = Console.ReadLine().Split(" ").Select(int.Parse).ToArray();
 			string move;
-			int[] board = new int[fieldSize];
-			for (int i = 0; i < startingLocations.Length; i++) //populate the initial board with 1 and 0
-			{
-				if (startingLocations[i] >= 0 && startingLocations[i] < fieldSize) //some indexes given could be outside of board
-				{ board[startingLocations[i]] = 1; }
-			}
+			int[] board = PopulateBoard(startingLocations, fieldSize);
+			
 			while ((move = Console.ReadLine()) != "end")
 			{
 				string[] moveDetails = move.Split(' ');
@@ -82,6 +78,17 @@ namespace LadyBugs
 				}
 			}
 			Console.WriteLine(string.Join(" ", board)); 
+		}
+
+		static int[] PopulateBoard(int[] startingLocations, int fieldSize)
+		{
+			int[] board = new int[fieldSize];
+			for (int i = 0; i < startingLocations.Length; i++) //populate the initial board with 1 and 0
+			{
+				if (startingLocations[i] >= 0 && startingLocations[i] < fieldSize) //some indexes given could be outside of board
+				{ board[startingLocations[i]] = 1; }
+			}
+			return board;
 		}
 	}
 }

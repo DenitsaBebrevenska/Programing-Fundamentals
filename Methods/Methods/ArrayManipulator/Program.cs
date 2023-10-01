@@ -101,8 +101,8 @@ namespace ArrayManipulator
 					}
 					else
 					{
-							string printMessage = GetFirstOdd(initialArray, count);
-							Console.WriteLine($"[{printMessage}]");
+						string printMessage = GetFirstOdd(initialArray, count);
+						Console.WriteLine($"[{printMessage}]");
 					}
 				}
 				else if (manipulation.Contains("last"))
@@ -117,8 +117,8 @@ namespace ArrayManipulator
 					}
 					if (evenOrOdd == "even")
 					{
-							string printMessage = GetLastEven(initialArray, count);
-							Console.WriteLine($"[{printMessage}]");
+						string printMessage = GetLastEven(initialArray, count);
+						Console.WriteLine($"[{printMessage}]");
 					}
 					else
 					{
@@ -165,15 +165,12 @@ namespace ArrayManipulator
 			int maxInt = int.MinValue;
 			for (int i = 0; i < initialArray.Length; i++)
 			{
-				if (initialArray[i] != 0)
+				if (initialArray[i] % 2 == 0)
 				{
-					if (initialArray[i] % 2 == 0)
+					if (initialArray[i] >= maxInt)
 					{
-						if (initialArray[i] >= maxInt)
-						{
-							maxInt = initialArray[i];
-							maxEvenIndex = i;
-						}
+						maxInt = initialArray[i];
+						maxEvenIndex = i;
 					}
 				}
 			}
@@ -193,15 +190,12 @@ namespace ArrayManipulator
 			int maxInt = int.MinValue;
 			for (int i = 0; i < initialArray.Length; i++)
 			{
-				if (initialArray[i] != 0)
+				if (initialArray[i] % 2 != 0)
 				{
-					if (initialArray[i] % 2 != 0)
+					if (initialArray[i] >= maxInt)
 					{
-						if (initialArray[i] >= maxInt)
-						{
-							maxInt = initialArray[i];
-							maxOddIndex = i;
-						}
+						maxInt = initialArray[i];
+						maxOddIndex = i;
 					}
 				}
 			}
@@ -221,15 +215,12 @@ namespace ArrayManipulator
 			int minInt = int.MaxValue;
 			for (int i = 0; i < initialArray.Length; i++)
 			{
-				if (initialArray[i] != 0)
+				if (initialArray[i] % 2 == 0)
 				{
-					if (initialArray[i] % 2 == 0)
+					if (initialArray[i] <= minInt)
 					{
-						if (initialArray[i] <= minInt)
-						{
-							minInt = initialArray[i];
-							minEvenIndex = i;
-						}
+						minInt = initialArray[i];
+						minEvenIndex = i;
 					}
 				}
 			}
@@ -249,15 +240,12 @@ namespace ArrayManipulator
 			int minInt = int.MaxValue;
 			for (int i = 0; i < initialArray.Length; i++)
 			{
-				if (initialArray[i] != 0)
+				if (initialArray[i] % 2 != 0)
 				{
-					if (initialArray[i] % 2 != 0)
+					if (initialArray[i] <= minInt)
 					{
-						if (initialArray[i] <= minInt)
-						{
-							minInt = initialArray[i];
-							minOddIndex = i;
-						}
+						minInt = initialArray[i];
+						minOddIndex = i;
 					}
 				}
 			}
@@ -277,19 +265,17 @@ namespace ArrayManipulator
 			string numbers = string.Empty;
 			for (int i = 0; i < initialArray.Length; i++)
 			{
-				if (initialArray[i] != 0)
+				if (initialArray[i] % 2 == 0)
 				{
-					if (initialArray[i] % 2 == 0)
+					numbers += initialArray[i] + ", ";
+					count--;
+					if (count == 0)
 					{
-						numbers += initialArray[i] + ", ";
-						count--;
-						if (count == 0)
-						{
-							break;
-						}
+						break;
 					}
 				}
 			}
+
 			numbers = numbers.Trim();
 			return numbers.TrimEnd(',');
 		}
@@ -298,16 +284,13 @@ namespace ArrayManipulator
 			string numbers = string.Empty;
 			for (int i = 0; i < initialArray.Length; i++)
 			{
-				if (initialArray[i] != 0)
+				if (initialArray[i] % 2 != 0)
 				{
-					if (initialArray[i] % 2 != 0)
+					numbers += initialArray[i] + ", ";
+					count--;
+					if (count == 0)
 					{
-						numbers += initialArray[i] + ", ";
-						count--;
-						if (count == 0)
-						{
-							break;
-						}
+						break;
 					}
 				}
 			}
@@ -318,18 +301,15 @@ namespace ArrayManipulator
 		static string GetLastEven(int[] initialArray, int count)
 		{
 			string numbers = string.Empty;
-			for (int i = initialArray.Length -1; i >= 0; i--)
+			for (int i = initialArray.Length - 1; i >= 0; i--)
 			{
-				if (initialArray[i] != 0)
+				if (initialArray[i] % 2 == 0)
 				{
-					if (initialArray[i] % 2 == 0)
+					numbers += initialArray[i] + " ";
+					count--;
+					if (count == 0)
 					{
-						numbers += initialArray[i] + " ";
-						count--;
-						if (count == 0)
-						{
-							break;
-						}
+						break;
 					}
 				}
 			}
@@ -343,16 +323,13 @@ namespace ArrayManipulator
 			string numbers = string.Empty;
 			for (int i = initialArray.Length - 1; i >= 0; i--)
 			{
-				if (initialArray[i] != 0)
+				if (initialArray[i] % 2 != 0)
 				{
-					if (initialArray[i] % 2 != 0)
+					numbers += initialArray[i] + " ";
+					count--;
+					if (count == 0)
 					{
-						numbers += initialArray[i] + " ";
-						count--;
-						if (count == 0)
-						{
-							break;
-						}
+						break;
 					}
 				}
 			}

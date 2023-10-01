@@ -33,13 +33,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharactersInRange", "Charac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PasswordValidator", "PasswordValidator\PasswordValidator.csproj", "{473A769E-C824-4ED7-8A4A-4031EA3FCB13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddAndSubtract", "AddAndSubtract\AddAndSubtract.csproj", "{95693DC8-32BA-495E-B1A0-F283739723D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddAndSubtract", "AddAndSubtract\AddAndSubtract.csproj", "{95693DC8-32BA-495E-B1A0-F283739723D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleCharacters", "MiddleCharacters\MiddleCharacters.csproj", "{0160ACB9-46A0-4737-ABE4-983BB49FD6C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiddleCharacters", "MiddleCharacters\MiddleCharacters.csproj", "{0160ACB9-46A0-4737-ABE4-983BB49FD6C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NxNMatrix", "NxNMatrix\NxNMatrix.csproj", "{A4CB1FB5-4DC7-49B2-8546-233DD06D53C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NxNMatrix", "NxNMatrix\NxNMatrix.csproj", "{A4CB1FB5-4DC7-49B2-8546-233DD06D53C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialDivision", "FactorialDivision\FactorialDivision.csproj", "{1370E7A1-2416-4C06-832C-8D667D419461}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactorialDivision", "FactorialDivision\FactorialDivision.csproj", "{1370E7A1-2416-4C06-832C-8D667D419461}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeIntegers", "PalindromeIntegers\PalindromeIntegers.csproj", "{8C07E520-A1C3-408C-BB23-C4CFBD6A1D68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopNumber", "TopNumber\TopNumber.csproj", "{5085CE16-8A2E-4145-8755-994C9AA621DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayManipulator", "ArrayManipulator\ArrayManipulator.csproj", "{11FFC2DD-3A91-4B97-8E8C-556D85A334E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +129,18 @@ Global
 		{1370E7A1-2416-4C06-832C-8D667D419461}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1370E7A1-2416-4C06-832C-8D667D419461}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1370E7A1-2416-4C06-832C-8D667D419461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C07E520-A1C3-408C-BB23-C4CFBD6A1D68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C07E520-A1C3-408C-BB23-C4CFBD6A1D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C07E520-A1C3-408C-BB23-C4CFBD6A1D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C07E520-A1C3-408C-BB23-C4CFBD6A1D68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5085CE16-8A2E-4145-8755-994C9AA621DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5085CE16-8A2E-4145-8755-994C9AA621DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5085CE16-8A2E-4145-8755-994C9AA621DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5085CE16-8A2E-4145-8755-994C9AA621DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11FFC2DD-3A91-4B97-8E8C-556D85A334E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11FFC2DD-3A91-4B97-8E8C-556D85A334E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11FFC2DD-3A91-4B97-8E8C-556D85A334E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11FFC2DD-3A91-4B97-8E8C-556D85A334E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

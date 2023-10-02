@@ -6,6 +6,8 @@
 		const string Paper = "Paper";
 		const string Scissors = "Scissors";
 		static bool restart = true;
+		private static int playerScore = 0;
+		private static int computerScore = 0;
 		static void Main(string[] args)
 		{
 			while (restart)
@@ -35,7 +37,7 @@
 				string computerMove = GenerateComputerMove();
 				Console.ForegroundColor = ConsoleColor.DarkYellow;
 				Console.WriteLine($"The computer chose: {computerMove}");
-				CheckMoves(userChoice, computerMove);
+				ScoringSystem(CheckMoves(userChoice, computerMove));
 				RestartOrEndGame();
 			}
 
@@ -76,14 +78,16 @@
 				return Scissors;
 			}
 		}
-		static void CheckMoves(string userChoice, string computerMove)
+		static string CheckMoves(string userChoice, string computerMove)
 		{
+			
 			if ((userChoice == Rock && computerMove == Scissors) ||
 				(userChoice == Paper && computerMove == Rock) ||
 				(userChoice == Scissors) && computerMove == Paper)
 			{
 				Console.ForegroundColor = ConsoleColor.Green;
 				Console.WriteLine("You win!");
+				return "win";
 			}
 			else if ((userChoice == Scissors && computerMove == Rock) ||
 				(userChoice == Rock && computerMove == Paper) ||
@@ -91,13 +95,32 @@
 			{
 				Console.ForegroundColor = ConsoleColor.Red;
 				Console.WriteLine("You lose!");
+				return "lose";
 			}
 			else
 			{
 				Console.ForegroundColor = ConsoleColor.Blue;
 				Console.WriteLine("It`s a draw!");
+				return "";
 			}
+			
 		}
+
+		static void ScoringSystem(string result)
+		{
+			if (result == "win")
+			{
+				playerScore++;
+			}
+			else if (result == "lose")
+			{
+				computerScore++;
+			}
+			Console.ForegroundColor = ConsoleColor.Yellow;
+			Console.WriteLine($"You won: {playerScore} games in total!");
+			Console.WriteLine($"The computer won: {computerScore} games in total!");
+		}
+
 		static void RestartOrEndGame()
 		{
 			Console.ForegroundColor = ConsoleColor.Magenta;

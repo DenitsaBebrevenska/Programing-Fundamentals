@@ -12,13 +12,71 @@
 			int[] bottomArray = new int[numbers.Length / 2];
 			int[] leftArray = new int[bottomArray.Length /2];
 			int[] rightArray = new int[bottomArray.Length /2];
-			int indexStart = leftArray.Length;
-			int indexEnd = numbers.Length - leftArray.Length;
+			int indexStartBottom = leftArray.Length;
+			int indexEndBottom = numbers.Length - leftArray.Length - 1;
+			
+			bottomArray = PopulateBottomArray(numbers, indexStartBottom, indexEndBottom);
+			leftArray = PopulateLeftRightArraysReversed(numbers, indexStartBottom - 1, 0);
+			rightArray = PopulateLeftRightArraysReversed(numbers, numbers.Length - 1, indexEndBottom + 1);
+
+			int[] topArray = new int[numbers.Length / 2];
+			topArray = PopulateTopArray(leftArray, rightArray);
+			
+			PrintOutput(bottomArray,topArray);
+
+		}
+
+		static int[] PopulateBottomArray(int[] array, int indexStart, int indexEnd)
+		{
+			int[] newArray = new int[array.Length / 2];
 			int j = 0;
-			for (int i = indexStart; i <= indexEnd; i++, j++) //populate the bottom array
+			for (int i = indexStart; i <= indexEnd; i++) 
 			{
-				bottomArray[j] = numbers[i];
+				newArray[j] = array[i];
+				j++;
+			}
+			return newArray;
+		}
+
+		static int[] PopulateLeftRightArraysReversed(int[] array, int indexStart,int indexEnd)
+		{
+			int[] newArray = new int[array.Length / 4];
+			int j = 0;
+			for (int i = indexStart; i >= indexEnd; i--) 
+			{
+				newArray[j] = array[i];
+				j++;
+			}
+			return newArray;
+		}
+
+		static int[] PopulateTopArray(int[] leftArray, int[] rightArray)
+		{
+			int[] newArray = new int[leftArray.Length * 2];
+			for (int i = 0; i < leftArray.Length; i++)
+			{
+				newArray[i] = leftArray[i];
+			}
+
+			int j = 0;
+			for (int i = newArray.Length / 2; i < newArray.Length; i++)
+			{
+				newArray[i] = rightArray[j];
+				j++;
+			}
+
+			return newArray;
+		}
+
+		static void PrintOutput(int[] array1, int[] array2)
+		{
+			int sum = 0;
+			for (int i = 0; i < array1.Length; i++)
+			{
+				sum = array1[i] + array2[i];
+				Console.Write(sum + " ");
 			}
 		}
+
 	}
 }

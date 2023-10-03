@@ -43,9 +43,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactorialDivision", "Factor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeIntegers", "PalindromeIntegers\PalindromeIntegers.csproj", "{8C07E520-A1C3-408C-BB23-C4CFBD6A1D68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopNumber", "TopNumber\TopNumber.csproj", "{5085CE16-8A2E-4145-8755-994C9AA621DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TopNumber", "TopNumber\TopNumber.csproj", "{5085CE16-8A2E-4145-8755-994C9AA621DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayManipulator", "ArrayManipulator\ArrayManipulator.csproj", "{11FFC2DD-3A91-4B97-8E8C-556D85A334E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayManipulator", "ArrayManipulator\ArrayManipulator.csproj", "{11FFC2DD-3A91-4B97-8E8C-556D85A334E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes", "DataTypes\DataTypes.csproj", "{4F3EB54C-7D36-4563-B9F7-D84F1E75D6E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CenterPoint", "CenterPoint\CenterPoint.csproj", "{1D3E1FE3-5B94-461A-A4F8-5A95C4E06513}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +145,14 @@ Global
 		{11FFC2DD-3A91-4B97-8E8C-556D85A334E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11FFC2DD-3A91-4B97-8E8C-556D85A334E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11FFC2DD-3A91-4B97-8E8C-556D85A334E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F3EB54C-7D36-4563-B9F7-D84F1E75D6E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F3EB54C-7D36-4563-B9F7-D84F1E75D6E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F3EB54C-7D36-4563-B9F7-D84F1E75D6E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F3EB54C-7D36-4563-B9F7-D84F1E75D6E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D3E1FE3-5B94-461A-A4F8-5A95C4E06513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D3E1FE3-5B94-461A-A4F8-5A95C4E06513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D3E1FE3-5B94-461A-A4F8-5A95C4E06513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D3E1FE3-5B94-461A-A4F8-5A95C4E06513}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -7,14 +7,13 @@ namespace ArrayManipulator
 		static void Main(string[] args)
 		{
 			// it is 70 /100 and needs tons of improving
-			int[] initialArray = Console.ReadLine().Split().Select(int.Parse).ToArray();
-			int arrayLenght = initialArray.Length;
+			int[] initialArray = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
 			string manipulation;
 			while ((manipulation = Console.ReadLine()) != "end")
 			{
+				string[] command = manipulation.Split(" ");
 				if (manipulation.Contains("exchange"))
 				{
-					string[] command = SplitCommand(manipulation);
 					int index = Convert.ToInt32(command[1]);
 					if (index >= 0 && index <= initialArray.Length - 1)
 					{
@@ -28,7 +27,6 @@ namespace ArrayManipulator
 				}
 				else if (manipulation.Contains("max"))
 				{
-					string[] command = SplitCommand(manipulation);
 					string evenOrOdd = command[1];
 					if (evenOrOdd == "even")
 					{
@@ -42,7 +40,7 @@ namespace ArrayManipulator
 							Console.WriteLine("No matches");
 						}
 					}
-					else
+					else if (evenOrOdd == "odd")
 					{
 						int maxIndex = GetMaxOdd(initialArray);
 						if (maxIndex >= 0)
@@ -57,7 +55,6 @@ namespace ArrayManipulator
 				}
 				else if (manipulation.Contains("min"))
 				{
-					string[] command = SplitCommand(manipulation);
 					string evenOrOdd = command[1];
 					if (evenOrOdd == "even")
 					{
@@ -71,7 +68,7 @@ namespace ArrayManipulator
 							Console.WriteLine("No matches");
 						}
 					}
-					else
+					else if (evenOrOdd == "odd")
 					{
 						int minIndex = GetMinOdd(initialArray);
 						if (minIndex >= 0)
@@ -86,10 +83,9 @@ namespace ArrayManipulator
 				}
 				else if (manipulation.Contains("first"))
 				{
-					string[] command = SplitCommand(manipulation);
 					int count = Convert.ToInt32(command[1]);
 					string evenOrOdd = command[2];
-					if (count > initialArray.Length)
+					if (count > initialArray.Length || count < 0) //adding a check if the input is a negative number
 					{
 						Console.WriteLine("Invalid count");
 						continue;
@@ -99,7 +95,7 @@ namespace ArrayManipulator
 						string printMessage = GetFirstEven(initialArray, count);
 						Console.WriteLine($"[{printMessage}]");
 					}
-					else
+					else if (evenOrOdd == "odd")
 					{
 						string printMessage = GetFirstOdd(initialArray, count);
 						Console.WriteLine($"[{printMessage}]");
@@ -107,10 +103,9 @@ namespace ArrayManipulator
 				}
 				else if (manipulation.Contains("last"))
 				{
-					string[] command = SplitCommand(manipulation);
 					int count = Convert.ToInt32(command[1]);
 					string evenOrOdd = command[2];
-					if (count > initialArray.Length)
+					if (count > initialArray.Length || count < 0) //adding check if the input is a negative number)
 					{
 						Console.WriteLine("Invalid count");
 						continue;
@@ -120,7 +115,7 @@ namespace ArrayManipulator
 						string printMessage = GetLastEven(initialArray, count);
 						Console.WriteLine($"[{printMessage}]");
 					}
-					else
+					else if (evenOrOdd == "odd")
 					{
 						string printMessage = GetLastOdd(initialArray, count);
 						Console.WriteLine($"[{printMessage}]");
@@ -131,13 +126,6 @@ namespace ArrayManipulator
 			string printFinalArray = string.Join(", ", initialArray);
 			Console.WriteLine($"[{printFinalArray}]");
 		}
-
-		static string[] SplitCommand(string manipulation)
-		{
-			string[] commandSplit = manipulation.Split(" ").ToArray();
-			return commandSplit;
-		}
-
 		static int[] ExchangePositions(int index, int[] initialArray)
 		{
 			int[] firstArray = new int[index + 1];
@@ -147,9 +135,8 @@ namespace ArrayManipulator
 				firstArray[i] = initialArray[i];
 			}
 
-			int lastIndex = initialArray.Length - 1;
 			int j = 0;
-			for (int i = index + 1; i <= lastIndex; i++)
+			for (int i = index + 1; i <= initialArray.Length - 1; i++)
 			{
 				secondArray[j] = initialArray[i];
 				j++;
@@ -161,108 +148,68 @@ namespace ArrayManipulator
 
 		static int GetMaxEven(int[] initialArray)
 		{
-			int maxEvenIndex = 0;
+			int maxEvenIndex = -1;
 			int maxInt = int.MinValue;
 			for (int i = 0; i < initialArray.Length; i++)
 			{
-				if (initialArray[i] % 2 == 0)
+				if (initialArray[i] % 2 == 0 && initialArray[i] >= maxInt)
 				{
-					if (initialArray[i] >= maxInt)
-					{
 						maxInt = initialArray[i];
 						maxEvenIndex = i;
-					}
 				}
 			}
-
-			if (maxInt > int.MinValue)
-			{
 				return maxEvenIndex;
-			}
-			else
-			{
-				return -1;
-			}
 		}
 		static int GetMaxOdd(int[] initialArray)
 		{
-			int maxOddIndex = 0;
+			int maxOddIndex = -1;
 			int maxInt = int.MinValue;
 			for (int i = 0; i < initialArray.Length; i++)
 			{
-				if (initialArray[i] % 2 != 0)
+				if (initialArray[i] % 2 != 0 && initialArray[i] >= maxInt)
 				{
-					if (initialArray[i] >= maxInt)
-					{
 						maxInt = initialArray[i];
 						maxOddIndex = i;
-					}
 				}
-			}
-
-			if (maxInt > int.MinValue)
-			{
+			}	
 				return maxOddIndex;
-			}
-			else
-			{
-				return -1;
-			}
 		}
 		static int GetMinEven(int[] initialArray)
 		{
-			int minEvenIndex = 0;
+			int minEvenIndex = -1;
 			int minInt = int.MaxValue;
 			for (int i = 0; i < initialArray.Length; i++)
 			{
-				if (initialArray[i] % 2 == 0)
+				if (initialArray[i] <= minInt && initialArray[i] % 2 == 0)
 				{
-					if (initialArray[i] <= minInt)
-					{
-						minInt = initialArray[i];
-						minEvenIndex = i;
-					}
+					minInt = initialArray[i];
+					minEvenIndex = i;
 				}
 			}
 
-			if (minInt < int.MaxValue)
-			{
-				return minEvenIndex;
-			}
-			else
-			{
-				return -1;
-			}
+			return minEvenIndex;
 		}
 		static int GetMinOdd(int[] initialArray)
 		{
-			int minOddIndex = 0;
+			int minOddIndex = -1;
 			int minInt = int.MaxValue;
 			for (int i = 0; i < initialArray.Length; i++)
 			{
-				if (initialArray[i] % 2 != 0)
+				if (initialArray[i] % 2 != 0 && initialArray[i] <= minInt)
 				{
-					if (initialArray[i] <= minInt)
-					{
 						minInt = initialArray[i];
 						minOddIndex = i;
-					}
 				}
 			}
 
-			if (minInt < int.MaxValue)
-			{
-				return minOddIndex;
-			}
-			else
-			{
-				return -1;
-			}
+			return minOddIndex;
 		}
 
 		static string GetFirstEven(int[] initialArray, int count)
 		{
 			string numbers = string.Empty;
+			if (count == 0)
+			{ return string.Empty; }
 			for (int i = 0; i < initialArray.Length; i++)
 			{
 				if (initialArray[i] % 2 == 0)
@@ -276,12 +223,14 @@ namespace ArrayManipulator
 				}
 			}
 
-			numbers = numbers.Trim();
-			return numbers.TrimEnd(',');
+			numbers = numbers.TrimEnd(',', ' ');
+			return numbers;
 		}
 		static string GetFirstOdd(int[] initialArray, int count)
 		{
 			string numbers = string.Empty;
+			if (count == 0)
+			{ return string.Empty; }
 			for (int i = 0; i < initialArray.Length; i++)
 			{
 				if (initialArray[i] % 2 != 0)
@@ -294,13 +243,15 @@ namespace ArrayManipulator
 					}
 				}
 			}
-			numbers = numbers.Trim();
-			return numbers.TrimEnd(',');
+			numbers = numbers.TrimEnd(',', ' ');
+			return numbers;
 		}
 
 		static string GetLastEven(int[] initialArray, int count)
 		{
 			string numbers = string.Empty;
+			if (count == 0)
+			{ return string.Empty; }
 			for (int i = initialArray.Length - 1; i >= 0; i--)
 			{
 				if (initialArray[i] % 2 == 0)
@@ -313,7 +264,7 @@ namespace ArrayManipulator
 					}
 				}
 			}
-			numbers = numbers.Trim();
+			numbers = numbers.TrimEnd();
 			string reversedString = new string(numbers.Reverse().ToArray());
 			string replacedString = reversedString.Replace(" ", ", ");
 			return replacedString;
@@ -321,6 +272,9 @@ namespace ArrayManipulator
 		static string GetLastOdd(int[] initialArray, int count)
 		{
 			string numbers = string.Empty;
+			if (count == 0)
+			{ return string.Empty; }
+
 			for (int i = initialArray.Length - 1; i >= 0; i--)
 			{
 				if (initialArray[i] % 2 != 0)

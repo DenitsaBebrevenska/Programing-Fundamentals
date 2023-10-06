@@ -19,8 +19,17 @@
 			}
 			return factorial;
 		}
-
-		static decimal Divide(long number1, long number2)
+		/* can use recursion but it will be slightly slower
+		static long CalculateFactorial(int number)
+		{
+			if (number < 1)
+			{
+				return 1;
+			}
+			return number * CalculateFactorial(number - 1);
+		}
+		*/
+			static decimal Divide(long number1, long number2)
 		{
 			number1 = CalculateFactorial(number1);
 			number2 = CalculateFactorial(number2);

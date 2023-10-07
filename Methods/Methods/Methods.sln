@@ -55,7 +55,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongerLine", "4LongerLine\L
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T7ribonacciSequence", "T7ribonacciSequence\T7ribonacciSequence.csproj", "{B99DA1BD-08C0-4BF1-A5A1-9A6332E85BA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CenterPoints", "CenterPoints\CenterPoints.csproj", "{C42D5FA3-2958-4452-A4DF-399571B75D89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CenterPoints", "CenterPoints\CenterPoints.csproj", "{C42D5FA3-2958-4452-A4DF-399571B75D89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationSign", "MultiplicationSign\MultiplicationSign.csproj", "{592B1A19-FBAA-4EDD-8BAB-0846507E0CA1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{C42D5FA3-2958-4452-A4DF-399571B75D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C42D5FA3-2958-4452-A4DF-399571B75D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C42D5FA3-2958-4452-A4DF-399571B75D89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{592B1A19-FBAA-4EDD-8BAB-0846507E0CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592B1A19-FBAA-4EDD-8BAB-0846507E0CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592B1A19-FBAA-4EDD-8BAB-0846507E0CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592B1A19-FBAA-4EDD-8BAB-0846507E0CA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

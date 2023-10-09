@@ -1,12 +1,9 @@
-﻿using System.Diagnostics.Metrics;
-
-namespace ArrayManipulator
+﻿namespace ArrayManipulator
 {
 	internal class Program
 	{
 		static void Main(string[] args)
 		{
-			// it is 70 /100 and needs tons of improving
 			int[] initialArray = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
 			string manipulation;
 			while ((manipulation = Console.ReadLine()) != "end")
@@ -14,7 +11,7 @@ namespace ArrayManipulator
 				string[] command = manipulation.Split(" ");
 				if (manipulation.Contains("exchange"))
 				{
-					int index = Convert.ToInt32(command[1]);
+					int index = int.Parse(command[1]);
 					if (index >= 0 && index <= initialArray.Length - 1)
 					{
 						initialArray = ExchangePositions(index, initialArray);
@@ -83,7 +80,7 @@ namespace ArrayManipulator
 				}
 				else if (manipulation.Contains("first"))
 				{
-					int count = Convert.ToInt32(command[1]);
+					int count = int.Parse(command[1]);
 					string evenOrOdd = command[2];
 					if (count > initialArray.Length || count < 0) //adding a check if the input is a negative number
 					{
@@ -103,9 +100,9 @@ namespace ArrayManipulator
 				}
 				else if (manipulation.Contains("last"))
 				{
-					int count = Convert.ToInt32(command[1]);
+					int count = int.Parse(command[1]);
 					string evenOrOdd = command[2];
-					if (count > initialArray.Length || count < 0) //adding check if the input is a negative number)
+					if (count > initialArray.Length || count < 0) //adding check if the input is a negative number
 					{
 						Console.WriteLine("Invalid count");
 						continue;
@@ -256,7 +253,7 @@ namespace ArrayManipulator
 			{
 				if (initialArray[i] % 2 == 0)
 				{
-					numbers += initialArray[i] + " ";
+					numbers = initialArray[i] + ", " + numbers;
 					count--;
 					if (count == 0)
 					{
@@ -264,10 +261,8 @@ namespace ArrayManipulator
 					}
 				}
 			}
-			numbers = numbers.TrimEnd();
-			string reversedString = new string(numbers.Reverse().ToArray());
-			string replacedString = reversedString.Replace(" ", ", ");
-			return replacedString;
+			numbers = numbers.TrimEnd(',', ' ');
+			return numbers;
 		}
 		static string GetLastOdd(int[] initialArray, int count)
 		{
@@ -279,7 +274,7 @@ namespace ArrayManipulator
 			{
 				if (initialArray[i] % 2 != 0)
 				{
-					numbers += initialArray[i] + " ";
+					numbers = initialArray[i] + ", " + numbers;
 					count--;
 					if (count == 0)
 					{
@@ -287,10 +282,8 @@ namespace ArrayManipulator
 					}
 				}
 			}
-			numbers = numbers.Trim();
-			string reversedString = new string(numbers.Reverse().ToArray());
-			string replacedString = reversedString.Replace(" ", ", ");
-			return replacedString;
+			numbers = numbers.TrimEnd(',', ' ');
+			return numbers;
 		}
 	}
 }

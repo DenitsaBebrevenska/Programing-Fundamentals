@@ -1,6 +1,4 @@
-﻿using System.Security.Cryptography;
-
-namespace ChangeList
+﻿namespace ChangeList
 {
 	internal class Program
 	{

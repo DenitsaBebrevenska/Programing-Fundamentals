@@ -33,9 +33,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppendArrays", "AppendArray
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnonymousThreat", "AnonymousThreat\AnonymousThreat.csproj", "{7BE03818-5FAD-4F67-ACCA-A1A7F5FA677F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonDontGo", "PokemonDontGo\PokemonDontGo.csproj", "{374C37FA-7EEA-48F3-9CDE-7668155E5D12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokemonDontGo", "PokemonDontGo\PokemonDontGo.csproj", "{374C37FA-7EEA-48F3-9CDE-7668155E5D12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniCoursePlanning", "SoftUniCoursePlanning\SoftUniCoursePlanning.csproj", "{4723EF53-273A-4D70-9188-F6F7A585C978}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftUniCoursePlanning", "SoftUniCoursePlanning\SoftUniCoursePlanning.csproj", "{4723EF53-273A-4D70-9188-F6F7A585C978}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messaging", "Messaging\Messaging.csproj", "{F9C1D687-ED89-47E3-B810-F919E7A7CE83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRace", "CarRace\CarRace.csproj", "{686E0452-C896-4B89-B866-361AD3A94737}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeSkipRope", "TakeSkipRope\TakeSkipRope.csproj", "{23517779-8848-4707-82BB-840F5FC1DAE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MixedUpLists", "MixedUpLists\MixedUpLists.csproj", "{AF3FC02C-C00C-44F7-805F-2D2364FACAF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +119,22 @@ Global
 		{4723EF53-273A-4D70-9188-F6F7A585C978}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4723EF53-273A-4D70-9188-F6F7A585C978}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4723EF53-273A-4D70-9188-F6F7A585C978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9C1D687-ED89-47E3-B810-F919E7A7CE83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9C1D687-ED89-47E3-B810-F919E7A7CE83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9C1D687-ED89-47E3-B810-F919E7A7CE83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9C1D687-ED89-47E3-B810-F919E7A7CE83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{686E0452-C896-4B89-B866-361AD3A94737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686E0452-C896-4B89-B866-361AD3A94737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686E0452-C896-4B89-B866-361AD3A94737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686E0452-C896-4B89-B866-361AD3A94737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23517779-8848-4707-82BB-840F5FC1DAE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23517779-8848-4707-82BB-840F5FC1DAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23517779-8848-4707-82BB-840F5FC1DAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23517779-8848-4707-82BB-840F5FC1DAE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF3FC02C-C00C-44F7-805F-2D2364FACAF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF3FC02C-C00C-44F7-805F-2D2364FACAF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF3FC02C-C00C-44F7-805F-2D2364FACAF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF3FC02C-C00C-44F7-805F-2D2364FACAF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -2,6 +2,7 @@
 {
 	internal class RockPaperScissors
 	{
+		static List<string> playerChoices = new List<string>();
 		const string Rock = "Rock";
 		const string Paper = "Paper";
 		const string Scissors = "Scissors";
@@ -31,6 +32,7 @@
 					}
 					userChoice = CheckUserInput(userInput).userChoice;
 				}
+				playerChoices.Add(userChoice);
 				Console.ForegroundColor = ConsoleColor.Yellow;
 				Console.WriteLine($"You chose: {userChoice}");
 
@@ -63,21 +65,66 @@
 		}
 		static string GenerateComputerMove()
 		{
-			Random random = new Random();
-			int computerRandomNumber = random.Next(1, 4);
-			if (computerRandomNumber == 1)
+			string likelyCounterVsPlayerChoice = AnalizeLastChoices();
+			if (playerChoices.Count >= 5 && likelyCounterVsPlayerChoice != null)
 			{
-				return Rock;
+				return likelyCounterVsPlayerChoice;
 			}
-			else if (computerRandomNumber == 2)
+			else
+			{
+				Random random = new Random();
+				int computerRandomNumber = random.Next(1, 4);
+				if (computerRandomNumber == 1)
+				{
+					return Rock;
+				}
+				else if (computerRandomNumber == 2)
+				{
+					return Paper;
+				}
+				else
+				{ 
+					return Scissors;
+				}
+			}
+		}
+
+		static string AnalizeLastChoices()
+		{
+			int rockCount = 0, paperCount = 0, scissorsCount = 0;
+			foreach (string choice in playerChoices)
+			{
+				if (choice == Rock)
+				{
+					rockCount++;
+				}
+				else if (choice == Paper)
+				{
+					paperCount++;
+				}
+				else
+				{
+					scissorsCount++;
+				}
+			}
+			
+			if (rockCount > paperCount && rockCount > scissorsCount)
 			{
 				return Paper;
 			}
-			else
-			{ 
+			else if (paperCount > rockCount && paperCount > scissorsCount)
+			{
 				return Scissors;
 			}
+			else if (scissorsCount > rockCount && scissorsCount > paperCount)
+			{
+				return Rock;
+			}
+
+			return null;
+
 		}
+
 		static string CheckMoves(string userChoice, string computerMove)
 		{
 			

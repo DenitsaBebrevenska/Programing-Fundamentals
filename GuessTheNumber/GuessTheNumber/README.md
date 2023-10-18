@@ -1,4 +1,4 @@
-A game of Guess The Number on the console
+# A game of Guess The Number on the console
 
 The computer randomly chooses a number and the player has 10 attempts to guess it.<br>
 The player is given clues whether they are getting close and when the difference from the number to guess is 5 or less the message will say that they are getting really close.<br>

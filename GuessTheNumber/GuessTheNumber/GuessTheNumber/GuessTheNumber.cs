@@ -30,6 +30,7 @@ namespace GuessTheNumber
 							? "High, but you are really close!"
 							: "Too high! Make another guess: ");
 						playerAttempts = IncrementAttempts(playerAttempts);
+						Console.WriteLine();
 					}
 					else if (playerGuess < numberToGuess)
 					{
@@ -37,6 +38,7 @@ namespace GuessTheNumber
 							? "Low, but you are really close!"
 							: "Too low! Make another guess: ");
 						playerAttempts = IncrementAttempts(playerAttempts);
+						Console.WriteLine();
 					}
 
 					if (AttemptsOver(playerAttempts))
@@ -109,6 +111,7 @@ namespace GuessTheNumber
 				{
 					Console.WriteLine("Your input is invalid!");
 					Console.WriteLine("Enter a number between 1 and 100 inclusive:");
+					Console.WriteLine();
 					continue;
 				}
 
@@ -116,6 +119,7 @@ namespace GuessTheNumber
 				{
 					Console.WriteLine("Invalid number!");
 					Console.WriteLine("Enter a number between 1 and 100 inclusive:");
+					Console.WriteLine();
 					continue;
 				}
 

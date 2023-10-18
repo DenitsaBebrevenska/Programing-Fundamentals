@@ -1,7 +1,8 @@
 # Rock Paper Scissors Game
 
-Made a simple console game of Rock Paper Scissors with available restart and scoring system.
+Made a simple console game of Rock Paper Scissors with available restart and scoring system.<br>
 
+Added a list to track player`s choices. Upon reaching 5 choices, they will be counted and if there is a choice whose count is bigger than the others, the computer will use the word that counters it. If the counts are equal, the computer will switch to randomness. <br>
 
 
 ![loss](https://github.com/DenitsaBebrevenska/Programing-Fundamentals/assets/141340307/84d708c8-9fbf-426b-8bae-955c3a41b8f0)

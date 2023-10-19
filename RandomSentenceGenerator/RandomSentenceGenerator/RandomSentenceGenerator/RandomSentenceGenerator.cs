@@ -17,10 +17,10 @@
 			while (true)
 			{
 				Console.ForegroundColor = ConsoleColor.Green;
-				Console.WriteLine("Press any key to create a sentence!");
-				Console.WriteLine("Or press ESC to quit!");
+				Console.WriteLine("Press ENTER to create a sentence!");
+				Console.WriteLine("Or press any other key to quit!");
 				var keyPressed = Console.ReadKey();
-				if (keyPressed.KeyChar == 27)
+				if (keyPressed.KeyChar != 13)
 				{
 					return;
 				}
@@ -77,7 +77,7 @@
 		}
 		private static string GenerateSubject2(string subject1)
 		{
-			string word = "";
+			string word;
 			Random subjectRandom = new Random();
 			while (true) //we can`t have two Julia Roberts in the same sentence!
 			{
@@ -100,16 +100,9 @@
 				return " ";
 			}
 
-			int index = 0;
-			if (!isSecondSubject) //first subject additive should start with a capital letter => beginning of sentence
-			{
-				index = otherRandom.Next(0, 15);
-			}
-			else
-			{
-				index = otherRandom.Next(15, 30);
-			}
-
+			int index; 
+			//first subject additive should start with a capital letter => beginning of sentence
+			index = !isSecondSubject ? otherRandom.Next(0, 15) : otherRandom.Next(15, 30);
 			string word = _others[index];
 			return word;
 		}

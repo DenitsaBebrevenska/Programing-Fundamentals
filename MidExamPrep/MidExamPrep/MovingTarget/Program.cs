@@ -14,39 +14,32 @@
 				int value = int.Parse(command[2]);
 				switch (command[0])
 				{
-				case "Shoot":
-					if (!IsInListRange(targets, index))
-					{
-						continue;
-					}
-					else
-					{
-						targets = Shoot(targets, index, value);
-					}
-					break;
-				case "Add":
-					if (!IsInListRange(targets, index))
-					{
-						Console.WriteLine("Invalid placement!");
-						continue;
-					}
-					else
-					{
-						targets.Insert(index, value);
-					}
-					break;
-				case "Strike":
-					if (!IsInListRange(targets, index - value) || !IsInListRange(targets, index + value))
-					{
-						Console.WriteLine("Strike missed!");
-						continue;
-					}
-					else
-					{
-						targets.RemoveRange(index - value, value * 2 + 1);
-					}
+					case "Shoot":
+						if (!IsInListRange(targets, index))
+						{
+							continue;
+						}
 
-					break;
+						targets = Shoot(targets, index, value);
+						break;
+					case "Add":
+						if (!IsInListRange(targets, index))
+						{
+							Console.WriteLine("Invalid placement!");
+							continue;
+						}
+
+						targets.Insert(index, value);
+						break;
+					case "Strike":
+						if (!IsInListRange(targets, index - value) || !IsInListRange(targets, index + value))
+						{
+							Console.WriteLine("Strike missed!");
+							continue;
+						}
+
+						targets.RemoveRange(index - value, value * 2 + 1);
+						break;
 				}
 
 			}

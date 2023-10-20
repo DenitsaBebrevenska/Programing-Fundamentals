@@ -61,7 +61,7 @@
 			string addition = $"-{movesCount}a";
 			int index = elements.Count / 2;
 			elements.Insert(index, addition);
-			elements.Insert(index + 1, addition);
+			elements.Insert(index, addition);
 			return elements;
 		}
 
@@ -70,4 +70,4 @@
 			return elementsCount == 0;
 		}
 	}
-}
+} 

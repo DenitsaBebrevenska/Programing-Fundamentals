@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderByAge", "OrderByAge\Or
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompanyRoster", "CompanyRoster\CompanyRoster.csproj", "{74C02EB0-CBCD-4279-AF3A-D137AFFC6175}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OldestFamilyMember", "OldestFamilyMember\OldestFamilyMember.csproj", "{495F3D32-A874-4FF1-A062-8EEE42379807}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OldestFamilyMember", "OldestFamilyMember\OldestFamilyMember.csproj", "{495F3D32-A874-4FF1-A062-8EEE42379807}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedRacing", "SpeedRacing\SpeedRacing.csproj", "{90BAABF8-710F-4D0C-8D41-6255AA1E2002}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{495F3D32-A874-4FF1-A062-8EEE42379807}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{495F3D32-A874-4FF1-A062-8EEE42379807}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{495F3D32-A874-4FF1-A062-8EEE42379807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90BAABF8-710F-4D0C-8D41-6255AA1E2002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90BAABF8-710F-4D0C-8D41-6255AA1E2002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90BAABF8-710F-4D0C-8D41-6255AA1E2002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90BAABF8-710F-4D0C-8D41-6255AA1E2002}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

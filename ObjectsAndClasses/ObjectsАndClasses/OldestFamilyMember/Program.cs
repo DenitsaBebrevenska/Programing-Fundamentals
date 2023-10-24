@@ -18,36 +18,4 @@
 			Console.WriteLine($"{oldestPerson.Name} {oldestPerson.Age}");
 		}
 	}
-
-	internal class Person
-	{
-		public Person(string name, int age)
-		{
-			Name = name;
-			Age = age;
-		}
-
-		public string Name { get; set; }
-		public int Age { get; set; }
-	}
-
-	internal class Family
-	{
-		public static List<Person> People;
-
-		public Family()
-		{
-			People = new List<Person>();
-		}
-		public static void AddPerson(Person person)
-		{
-			People.Add(person);
-		}
-
-		public static Person GetOldestPerson()
-		{
-			Person oldestPerson = People.OrderByDescending(p => p.Age).First();
-			return oldestPerson;
-		}
-	}
 }

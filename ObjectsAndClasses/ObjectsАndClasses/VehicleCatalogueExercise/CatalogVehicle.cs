@@ -10,10 +10,5 @@ namespace VehicleCatalogueExercise
 	{
 		public List<Vehicle> Vehicles { get; set; }
 		
-		public CatalogVehicle()
-		{
-			Vehicles = new List<Vehicle>();
-			
-		}
 	}
 }

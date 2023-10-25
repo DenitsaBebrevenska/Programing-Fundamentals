@@ -1,6 +1,4 @@
-﻿using System.Xml.Schema;
-
-namespace MultiplicationTable2._0
+﻿namespace MultiplicationTable2._0
 {
 	internal class Program
 	{

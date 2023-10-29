@@ -20,7 +20,7 @@
 
 			foreach (Article article in articles)
 			{
-				Console.WriteLine(article.ToString());
+				Console.WriteLine(article);
 			}
 		}
 	}

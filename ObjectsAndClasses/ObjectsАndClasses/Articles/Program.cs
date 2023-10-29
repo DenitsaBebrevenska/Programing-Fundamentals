@@ -29,8 +29,7 @@
 				}
 			}
 
-			string finalState = article.ToString();
-			Console.WriteLine(finalState);
+			Console.WriteLine(article);
 		}
 	}
 }

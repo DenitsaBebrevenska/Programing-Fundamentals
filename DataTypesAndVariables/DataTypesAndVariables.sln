@@ -55,13 +55,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTypeFinderABetterSoluti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FromLeftToTheRight", "FromLeftToTheRight\FromLeftToTheRight.csproj", "{24B0E4A5-B1F3-49BE-8869-6E3E92B40B8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatingEquality", "FloatingEquality\FloatingEquality.csproj", "{E545B7EB-27E0-464A-B7DD-1A359ED54343}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FloatingEquality", "FloatingEquality\FloatingEquality.csproj", "{E545B7EB-27E0-464A-B7DD-1A359ED54343}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactoringPrimeChecker", "RefactoringPrimeChecker\RefactoringPrimeChecker.csproj", "{C1FC036E-581B-4228-9B34-E5BFE850132D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RefactoringPrimeChecker", "RefactoringPrimeChecker\RefactoringPrimeChecker.csproj", "{C1FC036E-581B-4228-9B34-E5BFE850132D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecryptingMessage", "DecryptingMessage\DecryptingMessage.csproj", "{7E004201-0826-464F-B4D0-6F4AB5DB2C19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecryptingMessage", "DecryptingMessage\DecryptingMessage.csproj", "{7E004201-0826-464F-B4D0-6F4AB5DB2C19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancedBrackets", "BalancedBrackets\BalancedBrackets.csproj", "{1626A21D-60E8-4CB5-A745-41F210282B8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BalancedBrackets", "BalancedBrackets\BalancedBrackets.csproj", "{1626A21D-60E8-4CB5-A745-41F210282B8E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "X", "X\X.csproj", "{7BA073C8-7AA2-4A43-AF2E-E2A185090C9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaporStore", "VaporStore\VaporStore.csproj", "{597853DF-0E3F-447F-BE1A-B37F81CC3677}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Megapixels", "Megapixels\Megapixels.csproj", "{63661C0C-718B-4229-BFCE-29DF62C9613E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoGallery", "PhotoGallery\PhotoGallery.csproj", "{124D69BC-8C76-48DB-A5F1-44E7A6087E37}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +197,22 @@ Global
 		{1626A21D-60E8-4CB5-A745-41F210282B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1626A21D-60E8-4CB5-A745-41F210282B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1626A21D-60E8-4CB5-A745-41F210282B8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BA073C8-7AA2-4A43-AF2E-E2A185090C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA073C8-7AA2-4A43-AF2E-E2A185090C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA073C8-7AA2-4A43-AF2E-E2A185090C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA073C8-7AA2-4A43-AF2E-E2A185090C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{597853DF-0E3F-447F-BE1A-B37F81CC3677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{597853DF-0E3F-447F-BE1A-B37F81CC3677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{597853DF-0E3F-447F-BE1A-B37F81CC3677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{597853DF-0E3F-447F-BE1A-B37F81CC3677}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63661C0C-718B-4229-BFCE-29DF62C9613E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63661C0C-718B-4229-BFCE-29DF62C9613E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63661C0C-718B-4229-BFCE-29DF62C9613E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63661C0C-718B-4229-BFCE-29DF62C9613E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{124D69BC-8C76-48DB-A5F1-44E7A6087E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{124D69BC-8C76-48DB-A5F1-44E7A6087E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{124D69BC-8C76-48DB-A5F1-44E7A6087E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{124D69BC-8C76-48DB-A5F1-44E7A6087E37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

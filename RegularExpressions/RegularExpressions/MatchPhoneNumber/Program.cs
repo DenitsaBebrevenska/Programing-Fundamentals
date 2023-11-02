@@ -11,11 +11,7 @@ namespace MatchPhoneNumber
 
 			MatchCollection matches = Regex.Matches(phoneNumbers, regexCorrectNumber);
 
-			string[] matchesArray = matches.Cast<Match>().
-				Select(x => x.Value.Trim()).
-				ToArray();
-
-			Console.WriteLine(string.Join(", ", matchesArray));
+			Console.WriteLine(string.Join(", ", matches));
 		}
 	}
 }

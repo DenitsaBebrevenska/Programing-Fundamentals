@@ -13,8 +13,9 @@ namespace MatchDates
 
 			foreach (Match date in dateCollection)
 			{
-				Console.WriteLine($"Day: {date.Groups["day"].Value}, Month: {date.Groups["month"].Value}," +
-				                  $" Year: {date.Groups["year"].Value}");
+				var groups = date.Groups;
+				Console.WriteLine($"Day: {groups["day"].Value}, Month: {groups["month"].Value}," +
+				                  $" Year: {groups["year"].Value}");
 			}
 		}
 	}

@@ -12,7 +12,7 @@ namespace Furniture
 
 			while ((input = Console.ReadLine()) != "Purchase")
 			{
-				string regexFurniture = @">>(?<item>[A-Z]+[a-z]*)<<(?<price>\d+\.*\d*)!(?<quantity>\d+)";
+				string regexFurniture = @">>(?<name>[A-z]+)<<(?<price>\d+(.\d+)?)!(?<quantity>\d+)";
 				//">>{furniture name}<<{price}!{quantity}" price could be floating point or not
 				Match match = Regex.Match(input, regexFurniture);
 				if (!match.Success)
@@ -26,7 +26,10 @@ namespace Furniture
 			}
 
 			Console.WriteLine("Bought furniture:");
-			Console.WriteLine(string.Join(Environment.NewLine, boughtItems));
+			if (boughtItems.Count > 0)
+			{
+				Console.WriteLine(string.Join("\n", boughtItems));
+			}
 			Console.WriteLine($"Total money spend: {totalPrice:F2}");
 
 		}

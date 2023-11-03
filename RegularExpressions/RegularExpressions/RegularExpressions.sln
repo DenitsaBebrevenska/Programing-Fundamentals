@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchFullName", "MatchFullName\MatchFullName.csproj", "{29583B91-E96E-4E2A-91BC-0BFB68335909}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatchFullName", "MatchFullName\MatchFullName.csproj", "{29583B91-E96E-4E2A-91BC-0BFB68335909}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchPhoneNumber", "MatchPhoneNumber\MatchPhoneNumber.csproj", "{16FF8AD3-45E8-41C5-AD7E-E66F687F0502}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatchPhoneNumber", "MatchPhoneNumber\MatchPhoneNumber.csproj", "{16FF8AD3-45E8-41C5-AD7E-E66F687F0502}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchDates", "MatchDates\MatchDates.csproj", "{201F77F8-B389-4EFF-B6B6-F483E7E3203E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatchDates", "MatchDates\MatchDates.csproj", "{201F77F8-B389-4EFF-B6B6-F483E7E3203E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Furniture", "Furniture\Furniture.csproj", "{8FC5AA9F-4E74-43E6-8757-BF8A183650E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Furniture", "Furniture\Furniture.csproj", "{8FC5AA9F-4E74-43E6-8757-BF8A183650E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Race", "Race\Race.csproj", "{5AC169E8-5B48-4DCA-B914-EF0B7CF262CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{8FC5AA9F-4E74-43E6-8757-BF8A183650E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FC5AA9F-4E74-43E6-8757-BF8A183650E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FC5AA9F-4E74-43E6-8757-BF8A183650E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC169E8-5B48-4DCA-B914-EF0B7CF262CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC169E8-5B48-4DCA-B914-EF0B7CF262CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC169E8-5B48-4DCA-B914-EF0B7CF262CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC169E8-5B48-4DCA-B914-EF0B7CF262CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

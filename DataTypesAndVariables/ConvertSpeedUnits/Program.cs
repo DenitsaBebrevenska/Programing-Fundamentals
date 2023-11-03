@@ -14,7 +14,7 @@
 			Console.WriteLine($"{metersPerSecond:F6}");
 
 			double kilometers = (double)distanceMeters / 1000;
-			double totalHours = hours + ((double)minutes / 60) + ((double)seconds / 360);
+			double totalHours = hours + ((double)minutes / 60) + ((double)seconds / 3600);
 			double kilometersPerHour = kilometers / totalHours;
 			Console.WriteLine($"{kilometersPerHour:F6}");
 

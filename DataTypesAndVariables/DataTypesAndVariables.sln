@@ -73,15 +73,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariableInHexFormat", "Vari
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BooleanVariable", "BooleanVariable\BooleanVariable.csproj", "{C4C08A3C-3602-4FAD-A059-E0451EDB63BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsAndObjects", "StringsAndObjects\StringsAndObjects.csproj", "{537AA2D7-C966-480B-BD63-2BF887CC18A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringsAndObjects", "StringsAndObjects\StringsAndObjects.csproj", "{537AA2D7-C966-480B-BD63-2BF887CC18A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeVariableValues", "ExchangeVariableValues\ExchangeVariableValues.csproj", "{2ECE64FE-FF5F-430D-AC80-5D624A1B875F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExchangeVariableValues", "ExchangeVariableValues\ExchangeVariableValues.csproj", "{2ECE64FE-FF5F-430D-AC80-5D624A1B875F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeData", "EmployeeData\EmployeeData.csproj", "{7E40C85B-7457-4557-9188-BBC31AA604D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeData", "EmployeeData\EmployeeData.csproj", "{7E40C85B-7457-4557-9188-BBC31AA604D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CenturiesToNanoseconds", "CenturiesToNanoseconds\CenturiesToNanoseconds.csproj", "{AB9BA5B4-876A-4A89-9404-C09017ABC352}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CenturiesToNanoseconds", "CenturiesToNanoseconds\CenturiesToNanoseconds.csproj", "{AB9BA5B4-876A-4A89-9404-C09017ABC352}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertSpeedUnits", "ConvertSpeedUnits\ConvertSpeedUnits.csproj", "{77251DDA-0262-4232-9497-04A3E567DD04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertSpeedUnits", "ConvertSpeedUnits\ConvertSpeedUnits.csproj", "{77251DDA-0262-4232-9497-04A3E567DD04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleProperties", "RectangleProperties\RectangleProperties.csproj", "{CC0386E8-B847-472C-9137-5DE908BE6A10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelOrDigit", "VowelOrDigit\VowelOrDigit.csproj", "{F7830B30-A410-4A49-B679-EF0EA1CF45C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -249,6 +253,14 @@ Global
 		{77251DDA-0262-4232-9497-04A3E567DD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77251DDA-0262-4232-9497-04A3E567DD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77251DDA-0262-4232-9497-04A3E567DD04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC0386E8-B847-472C-9137-5DE908BE6A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC0386E8-B847-472C-9137-5DE908BE6A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC0386E8-B847-472C-9137-5DE908BE6A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC0386E8-B847-472C-9137-5DE908BE6A10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7830B30-A410-4A49-B679-EF0EA1CF45C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7830B30-A410-4A49-B679-EF0EA1CF45C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7830B30-A410-4A49-B679-EF0EA1CF45C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7830B30-A410-4A49-B679-EF0EA1CF45C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

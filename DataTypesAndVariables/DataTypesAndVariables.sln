@@ -83,13 +83,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CenturiesToNanoseconds", "C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertSpeedUnits", "ConvertSpeedUnits\ConvertSpeedUnits.csproj", "{77251DDA-0262-4232-9497-04A3E567DD04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleProperties", "RectangleProperties\RectangleProperties.csproj", "{CC0386E8-B847-472C-9137-5DE908BE6A10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RectangleProperties", "RectangleProperties\RectangleProperties.csproj", "{CC0386E8-B847-472C-9137-5DE908BE6A10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelOrDigit", "VowelOrDigit\VowelOrDigit.csproj", "{F7830B30-A410-4A49-B679-EF0EA1CF45C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VowelOrDigit", "VowelOrDigit\VowelOrDigit.csproj", "{F7830B30-A410-4A49-B679-EF0EA1CF45C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerToHexAndBinary", "IntegerToHexAndBinary\IntegerToHexAndBinary.csproj", "{0CDAB11B-FA20-4364-A296-7BA84A28D8E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegerToHexAndBinary", "IntegerToHexAndBinary\IntegerToHexAndBinary.csproj", "{0CDAB11B-FA20-4364-A296-7BA84A28D8E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastPrimeChecker", "FastPrimeChecker\FastPrimeChecker.csproj", "{F5DAF5FA-A374-4749-BF7A-B66FD1CE0F4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FastPrimeChecker", "FastPrimeChecker\FastPrimeChecker.csproj", "{F5DAF5FA-A374-4749-BF7A-B66FD1CE0F4A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DifferentIntegersSize", "DifferentIntegersSize\DifferentIntegersSize.csproj", "{7C205981-4EAE-42D3-87D0-F43E38AE3047}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheaThePhotographer", "TheaThePhotographer\TheaThePhotographer.csproj", "{324CE509-9CD2-447B-A2C2-953774FB67D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -273,6 +277,14 @@ Global
 		{F5DAF5FA-A374-4749-BF7A-B66FD1CE0F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5DAF5FA-A374-4749-BF7A-B66FD1CE0F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5DAF5FA-A374-4749-BF7A-B66FD1CE0F4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C205981-4EAE-42D3-87D0-F43E38AE3047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C205981-4EAE-42D3-87D0-F43E38AE3047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C205981-4EAE-42D3-87D0-F43E38AE3047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C205981-4EAE-42D3-87D0-F43E38AE3047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{324CE509-9CD2-447B-A2C2-953774FB67D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{324CE509-9CD2-447B-A2C2-953774FB67D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{324CE509-9CD2-447B-A2C2-953774FB67D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{324CE509-9CD2-447B-A2C2-953774FB67D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

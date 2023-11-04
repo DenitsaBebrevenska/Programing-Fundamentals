@@ -109,6 +109,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentenceTheThief", "Sentenc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseBuilder", "HouseBuilder\HouseBuilder.csproj", "{E3931FFB-629E-4182-A314-04D76ACE2F87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeAWord", "MakeAWord\MakeAWord.csproj", "{4E425A45-D0B1-4BF1-B91E-EC16D6ED7E42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringConcatenation", "StringConcatenation\StringConcatenation.csproj", "{AE917EF8-0D05-4705-936C-C51111013378}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -327,6 +331,14 @@ Global
 		{E3931FFB-629E-4182-A314-04D76ACE2F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3931FFB-629E-4182-A314-04D76ACE2F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3931FFB-629E-4182-A314-04D76ACE2F87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E425A45-D0B1-4BF1-B91E-EC16D6ED7E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E425A45-D0B1-4BF1-B91E-EC16D6ED7E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E425A45-D0B1-4BF1-B91E-EC16D6ED7E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E425A45-D0B1-4BF1-B91E-EC16D6ED7E42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE917EF8-0D05-4705-936C-C51111013378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE917EF8-0D05-4705-936C-C51111013378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE917EF8-0D05-4705-936C-C51111013378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE917EF8-0D05-4705-936C-C51111013378}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

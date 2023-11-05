@@ -1,84 +1,78 @@
-﻿using System.Text.RegularExpressions;
+﻿using System.Text;
+using System.Text.RegularExpressions;
 
 namespace StarEnigma
 {
 	internal class Program
 	{
 		static void Main()
-		{ // 70/100 
+		{ 
 			int numberOfMessages = int.Parse(Console.ReadLine());
-			Dictionary<string, string> invasionMap = new Dictionary<string, string>();
-
+			List<string> attackedPlanets = new List<string>();
+			List<string> destroyedPlanets = new List<string>();
 			for (int i = 0; i < numberOfMessages; i++)
 			{
 				string currentMessage = Console.ReadLine();
-				string planet = GetToken(currentMessage, @"@([A-Za-z]+)");
-				string population = GetToken(currentMessage, @":(\d+)");
-				string action = GetToken(currentMessage, @"!(A|D)!");
-				string soldiers = GetToken(currentMessage, @"->(\d+)");
+				string tokensPattern =
+					@"@(?<planet>[A-Za-z]+)[^@\-!:>]*:(?<population>[\d]+)[^@:!\->]*!(?<action>A|D)![^@:!\->]*->(?<soldiers>\d+)";
+				string decryptedMessage = DecryptMessage(currentMessage);
+				Match match = Regex.Match(decryptedMessage, tokensPattern);
 
-				if (planet == string.Empty || population == string.Empty ||
-				    action == string.Empty || soldiers == string.Empty)
+				if (!match.Success)
 				{
 					continue;
 				}
 
-				invasionMap.Add(planet, action);
+				if (match.Groups["action"].Value == "D")
+				{
+					destroyedPlanets.Add(match.Groups["planet"].Value);
+				}
+				else
+				{
+					attackedPlanets.Add(match.Groups["planet"].Value);
+				}
+				
 			}
 
-			PrintAttackedPlanets(invasionMap);
-			PrintDestroyedPlanets(invasionMap);
+			PrintAttackedPlanets(attackedPlanets);
+			PrintDestroyedPlanets(destroyedPlanets);
 		}
 
-		static void PrintAttackedPlanets(Dictionary<string, string> invasionMap)
+		static void PrintAttackedPlanets(List<string> attackedPlanets)
 		{
-			Console.WriteLine($"Attacked planets: {invasionMap.Count(x => x.Value == "A")}");
-			foreach (var kvp in invasionMap.Where(x => x.Value == "A").OrderBy(x => x.Key))
+			Console.WriteLine($"Attacked planets: {attackedPlanets.Count}");
+
+			foreach (string planet in attackedPlanets.OrderBy(x => x))
 			{
-				Console.WriteLine($"-> {kvp.Key}");
+				Console.WriteLine($"-> {planet}");
 			}
 		}
 
-		static void PrintDestroyedPlanets(Dictionary<string, string> invasionMap)
+		static void PrintDestroyedPlanets(List<string> destroyedPlanets)
 		{
-			Console.WriteLine($"Destroyed planets: {invasionMap.Count(x => x.Value == "D")}");
-			foreach (var kvp in invasionMap.Where(x => x.Value == "D").OrderBy(x => x.Key))
+			Console.WriteLine($"Destroyed planets: {destroyedPlanets.Count}");
+			foreach (string planet in destroyedPlanets.OrderBy(x => x))
 			{
-				Console.WriteLine($"-> {kvp.Key}");
+				Console.WriteLine($"-> {planet}");
 			}
 		}
 
 		static int GetLetterCount(string currentMessage)
 		{
-			int count = 0;
-			currentMessage = currentMessage.ToLower();
-			for (int i = 0; i < currentMessage.Length; i++)
-			{
-				if (currentMessage[i] == 's' || currentMessage[i] == 't' ||
-					currentMessage[i] == 'a' || currentMessage[i] == 'r')
-				{
-					count++;
-				}
-			}
-			return count;
+			string regexPattern = "[STARstar]";
+			MatchCollection matches = Regex.Matches(currentMessage, regexPattern);
+			return matches.Count;
 		}
 		static string DecryptMessage(string currentMessage)
 		{
-			string decryptedMessage = string.Empty;
+			StringBuilder sb = new StringBuilder();
 			int count = GetLetterCount(currentMessage);
 
 			foreach (char symbol in currentMessage)
 			{
-				decryptedMessage += (char)(symbol - count);
+				sb.Append((char)(symbol - count));
 			}
-			return decryptedMessage;
-		}
-
-		static string GetToken(string currentMessage, string filter)
-		{
-			string decryptedMessage = DecryptMessage(currentMessage);
-			Match match = Regex.Match(decryptedMessage, filter);
-			return match.Groups[1].Value; //returns {} if no groups
+			return sb.ToString();
 		}
 	}
 }

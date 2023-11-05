@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Furniture", "Furniture\Furn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Race", "Race\Race.csproj", "{5AC169E8-5B48-4DCA-B914-EF0B7CF262CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniBarIncome", "SoftUniBarIncome\SoftUniBarIncome.csproj", "{68835401-C8FA-457F-9370-B819890C1F79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftUniBarIncome", "SoftUniBarIncome\SoftUniBarIncome.csproj", "{68835401-C8FA-457F-9370-B819890C1F79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarEnigma", "StarEnigma\StarEnigma.csproj", "{5D0174B2-9B1F-41AD-9262-4BE6B71148DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{68835401-C8FA-457F-9370-B819890C1F79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68835401-C8FA-457F-9370-B819890C1F79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68835401-C8FA-457F-9370-B819890C1F79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D0174B2-9B1F-41AD-9262-4BE6B71148DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D0174B2-9B1F-41AD-9262-4BE6B71148DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D0174B2-9B1F-41AD-9262-4BE6B71148DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D0174B2-9B1F-41AD-9262-4BE6B71148DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

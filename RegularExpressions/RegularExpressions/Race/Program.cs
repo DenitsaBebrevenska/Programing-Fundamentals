@@ -33,9 +33,9 @@ namespace Race
 		static Dictionary<string, int> PopulateRaceDictionary(string[] participants)
 		{
 			Dictionary<string, int> raceInformation = new Dictionary<string, int>();
-			foreach (var paticipant in participants)
+			foreach (var participant in participants)
 			{
-				raceInformation.Add(paticipant, 0);
+				raceInformation.Add(participant, 0);
 			}
 			return raceInformation;
 		}

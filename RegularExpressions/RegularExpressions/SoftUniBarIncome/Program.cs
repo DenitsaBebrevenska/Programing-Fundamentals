@@ -11,23 +11,18 @@ namespace SoftUniBarIncome
 
 			while ((input = Console.ReadLine()) != "end of shift")
 			{
-				string customerName = GetToken(input,@"%[A-Z][a-z]+%" );
-				string product = GetToken(input,@"<\w+>");
-				string quantity = GetToken(input, @"\|\d+\|");
-				string price = GetToken(input,@"\d+\.*\d*\$");
+				string customerName = GetToken(input,@"%(?<customer>[A-Z][a-z]+)%" );
+				string product = GetToken(input,@"<(?<product>\w+)>");
+				string quantity = GetToken(input, @"\|(?<quantity>\d+)\|");
+				string price = GetToken(input,@"(?<price>\d+\.*\d*)\$");
 
 				if (customerName == string.Empty || product == string.Empty ||
 				    quantity == string.Empty || price == string.Empty)
 				{
 					continue;
 				}
-				
 
-				customerName = customerName.Replace("%", "");
-				product = product.Replace("<" , "").Replace(">","");
-				quantity = quantity.Replace("|", "");
 				int quantityNumber = int.Parse(quantity);
-				price = price.Replace("$", "");
 				decimal priceNumber = decimal.Parse(price);
 				decimal totalClient = priceNumber * quantityNumber;
 				totalIncome += totalClient;
@@ -41,7 +36,8 @@ namespace SoftUniBarIncome
 		private static string GetToken(string input, string filter)
 		{
 			Match match = Regex.Match(input, filter);
-			return match.ToString();
+
+			return match.Groups[1].Value; //if there are no groups this will return {}, treat accordingly
 		}
 	}
 }

@@ -105,13 +105,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherForecast", "WeatherF
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatchTheThief", "CatchTheThief\CatchTheThief.csproj", "{2D21AFF6-B5D9-4DC1-85AC-1F52EDC69014}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentenceTheThief", "SentenceTheThief\SentenceTheThief.csproj", "{D623F696-F6C6-45B8-BED0-EE7ABDD0A624}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SentenceTheThief", "SentenceTheThief\SentenceTheThief.csproj", "{D623F696-F6C6-45B8-BED0-EE7ABDD0A624}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseBuilder", "HouseBuilder\HouseBuilder.csproj", "{E3931FFB-629E-4182-A314-04D76ACE2F87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HouseBuilder", "HouseBuilder\HouseBuilder.csproj", "{E3931FFB-629E-4182-A314-04D76ACE2F87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeAWord", "MakeAWord\MakeAWord.csproj", "{4E425A45-D0B1-4BF1-B91E-EC16D6ED7E42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MakeAWord", "MakeAWord\MakeAWord.csproj", "{4E425A45-D0B1-4BF1-B91E-EC16D6ED7E42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringConcatenation", "StringConcatenation\StringConcatenation.csproj", "{AE917EF8-0D05-4705-936C-C51111013378}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringConcatenation", "StringConcatenation\StringConcatenation.csproj", "{AE917EF8-0D05-4705-936C-C51111013378}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoatSimulator", "BoatSimulator\BoatSimulator.csproj", "{0CD746FB-98EA-4C76-8732-0F51A77D6E5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -339,6 +341,10 @@ Global
 		{AE917EF8-0D05-4705-936C-C51111013378}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE917EF8-0D05-4705-936C-C51111013378}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE917EF8-0D05-4705-936C-C51111013378}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CD746FB-98EA-4C76-8732-0F51A77D6E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD746FB-98EA-4C76-8732-0F51A77D6E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD746FB-98EA-4C76-8732-0F51A77D6E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD746FB-98EA-4C76-8732-0F51A77D6E5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

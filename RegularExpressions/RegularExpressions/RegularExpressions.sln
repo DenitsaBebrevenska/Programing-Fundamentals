@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftUniBarIncome", "SoftUni
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StarEnigma", "StarEnigma\StarEnigma.csproj", "{5D0174B2-9B1F-41AD-9262-4BE6B71148DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetherRealms", "NetherRealms\NetherRealms.csproj", "{83AB6A58-0F6A-45A7-B2E1-C05FA26E4A29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetherRealms", "NetherRealms\NetherRealms.csproj", "{83AB6A58-0F6A-45A7-B2E1-C05FA26E4A29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractEmails", "ExtractEmails\ExtractEmails.csproj", "{1BC5010F-8E69-462C-9738-0A3CFBFE872C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtractEmails", "ExtractEmails\ExtractEmails.csproj", "{1BC5010F-8E69-462C-9738-0A3CFBFE872C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinningTicket", "WinningTicket\WinningTicket.csproj", "{AEBC36BD-3E54-4856-9864-6E030E580920}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{1BC5010F-8E69-462C-9738-0A3CFBFE872C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BC5010F-8E69-462C-9738-0A3CFBFE872C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BC5010F-8E69-462C-9738-0A3CFBFE872C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEBC36BD-3E54-4856-9864-6E030E580920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEBC36BD-3E54-4856-9864-6E030E580920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEBC36BD-3E54-4856-9864-6E030E580920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEBC36BD-3E54-4856-9864-6E030E580920}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

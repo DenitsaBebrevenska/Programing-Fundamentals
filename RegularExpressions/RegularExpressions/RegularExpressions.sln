@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinningTicket", "WinningTic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RageQuit", "RageQuit\RageQuit.csproj", "{4896B781-3DEC-4947-A5C7-FD967166D9C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostOffice", "PostOffice\PostOffice.csproj", "{B6F614C4-7707-4DD6-88A8-DCFEE1851856}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostOffice", "PostOffice\PostOffice.csproj", "{B6F614C4-7707-4DD6-88A8-DCFEE1851856}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SantasSecretHelper", "SantasSecretHelper\SantasSecretHelper.csproj", "{5350B89B-94E1-4366-ABE4-D55EE6975067}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{B6F614C4-7707-4DD6-88A8-DCFEE1851856}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6F614C4-7707-4DD6-88A8-DCFEE1851856}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6F614C4-7707-4DD6-88A8-DCFEE1851856}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5350B89B-94E1-4366-ABE4-D55EE6975067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5350B89B-94E1-4366-ABE4-D55EE6975067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5350B89B-94E1-4366-ABE4-D55EE6975067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5350B89B-94E1-4366-ABE4-D55EE6975067}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

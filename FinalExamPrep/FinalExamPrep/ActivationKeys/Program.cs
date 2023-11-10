@@ -20,7 +20,7 @@ namespace ActivationKeys
 						continue;
 						break;
 					case "Flip":
-						FlipText(rawKey, commandDetails);
+						rawKey = FlipText(rawKey,commandDetails);
 						break;
 					case "Slice":
 						int startingIndex = int.Parse(commandDetails[1]);
@@ -35,7 +35,7 @@ namespace ActivationKeys
 			Console.WriteLine($"Your activation key is: {rawKey}");
 		}
 
-		static void FlipText(string rawKey, string[] commandDetails)
+		static string FlipText(string rawKey, string[] commandDetails)
 		{
 			string change = commandDetails[1];
 			int startIndex = int.Parse(commandDetails[2]);
@@ -52,6 +52,7 @@ namespace ActivationKeys
 
 			rawKey = rawKey.Remove(startIndex, endIndex - startIndex);
 			rawKey = rawKey.Insert(startIndex, extractedSubstring);
+			return rawKey;
 		}
 	}
 }

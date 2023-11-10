@@ -23,6 +23,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NeedForSpeedIII", "NeedForS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordReset", "PasswordReset\PasswordReset.csproj", "{B5760316-5840-4CFC-B612-72DBB7368498}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FancyBarcodes", "FancyBarcodes\FancyBarcodes.csproj", "{D02CF10C-B44B-4735-B359-9322C9F692F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{B5760316-5840-4CFC-B612-72DBB7368498}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5760316-5840-4CFC-B612-72DBB7368498}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5760316-5840-4CFC-B612-72DBB7368498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D02CF10C-B44B-4735-B359-9322C9F692F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D02CF10C-B44B-4735-B359-9322C9F692F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D02CF10C-B44B-4735-B359-9322C9F692F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D02CF10C-B44B-4735-B359-9322C9F692F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

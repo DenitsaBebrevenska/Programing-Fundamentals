@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawAFilledSquare", "DrawAF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureConversion", "TemperatureConversion\TemperatureConversion.csproj", "{5118E732-AC0E-45D5-B19F-4C5BAA1F0344}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateTriangleArea", "CalculateTriangleArea\CalculateTriangleArea.csproj", "{CBFA88F7-B12A-4734-8869-7BC46178867D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{5118E732-AC0E-45D5-B19F-4C5BAA1F0344}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5118E732-AC0E-45D5-B19F-4C5BAA1F0344}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5118E732-AC0E-45D5-B19F-4C5BAA1F0344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBFA88F7-B12A-4734-8869-7BC46178867D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBFA88F7-B12A-4734-8869-7BC46178867D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBFA88F7-B12A-4734-8869-7BC46178867D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBFA88F7-B12A-4734-8869-7BC46178867D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

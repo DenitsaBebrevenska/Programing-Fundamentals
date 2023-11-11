@@ -19,7 +19,5 @@ class HolidaysBetweenTwoDates
 			}
 		}
 		Console.WriteLine(holidaysCount);
-
-
 	}
 }

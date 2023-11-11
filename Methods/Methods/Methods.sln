@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blank Receipt", "Blank Rece
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawAFilledSquare", "DrawAFilledSquare\DrawAFilledSquare.csproj", "{23C2D9DD-DCCA-4F36-85B2-C16548A159B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureConversion", "TemperatureConversion\TemperatureConversion.csproj", "{5118E732-AC0E-45D5-B19F-4C5BAA1F0344}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{23C2D9DD-DCCA-4F36-85B2-C16548A159B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23C2D9DD-DCCA-4F36-85B2-C16548A159B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23C2D9DD-DCCA-4F36-85B2-C16548A159B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5118E732-AC0E-45D5-B19F-4C5BAA1F0344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5118E732-AC0E-45D5-B19F-4C5BAA1F0344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5118E732-AC0E-45D5-B19F-4C5BAA1F0344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5118E732-AC0E-45D5-B19F-4C5BAA1F0344}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

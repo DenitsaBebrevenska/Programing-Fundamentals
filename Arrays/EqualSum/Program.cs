@@ -1,6 +1,4 @@
-﻿using System.Threading.Channels;
-
-namespace EqualSum
+﻿namespace EqualSum
 {
 	internal class Program
 	{

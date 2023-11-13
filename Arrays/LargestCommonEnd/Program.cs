@@ -1,6 +1,4 @@
-﻿using System.Threading.Channels;
-
-namespace LargestCommonEnd
+﻿namespace LargestCommonEnd
 {
 	internal class Program
 	{

@@ -1,6 +1,4 @@
-﻿using System.Xml;
-
-namespace MaxSequenceOfEqualElements
+﻿namespace MaxSequenceOfEqualElements
 {
 	internal class Program
 	{

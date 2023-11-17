@@ -9,7 +9,7 @@
 		}
 		static string GetLastDigitName(string number)
 		{
-			switch (number[number.Length - 1])
+			switch (number[^1])
 			{
 				case '1':
 					return "one";

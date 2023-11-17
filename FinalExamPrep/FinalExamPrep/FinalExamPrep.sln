@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmojiDetector", "EmojiDetec
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P!rates", "P!rates\P!rates.csproj", "{C2FBAC3D-C079-4125-81B6-2EB6D974E7FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinoTheWalker", "SinoTheWalker\SinoTheWalker.csproj", "{8B9D09D3-A2E7-4292-B3DB-B98AAE1FBF51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SinoTheWalker", "SinoTheWalker\SinoTheWalker.csproj", "{8B9D09D3-A2E7-4292-B3DB-B98AAE1FBF51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniKaraoke", "SoftUniKaraoke\SoftUniKaraoke.csproj", "{8A04376C-6159-418E-A0E2-2587E1438E89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{8B9D09D3-A2E7-4292-B3DB-B98AAE1FBF51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B9D09D3-A2E7-4292-B3DB-B98AAE1FBF51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B9D09D3-A2E7-4292-B3DB-B98AAE1FBF51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A04376C-6159-418E-A0E2-2587E1438E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A04376C-6159-418E-A0E2-2587E1438E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A04376C-6159-418E-A0E2-2587E1438E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A04376C-6159-418E-A0E2-2587E1438E89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

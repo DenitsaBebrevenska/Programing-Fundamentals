@@ -69,17 +69,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemperatureConversion", "Te
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculateTriangleArea", "CalculateTriangleArea\CalculateTriangleArea.csproj", "{CBFA88F7-B12A-4734-8869-7BC46178867D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello, Name!", "Hello, Name!\Hello, Name!.csproj", "{9CDB01A3-9774-4C7C-AB17-E8A6417F9A87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hello, Name!", "Hello, Name!\Hello, Name!.csproj", "{9CDB01A3-9774-4C7C-AB17-E8A6417F9A87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxMethod", "MaxMethod\MaxMethod.csproj", "{A3C10300-5DBA-49E3-B6FC-6BFE19886249}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxMethod", "MaxMethod\MaxMethod.csproj", "{A3C10300-5DBA-49E3-B6FC-6BFE19886249}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglishNameOfLastDigit", "EnglishNameOfLastDigit\EnglishNameOfLastDigit.csproj", "{B2CDEE6C-DED5-4C78-B4F0-F340F1F82CFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnglishNameOfLastDigit", "EnglishNameOfLastDigit\EnglishNameOfLastDigit.csproj", "{B2CDEE6C-DED5-4C78-B4F0-F340F1F82CFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersInReversedOrder", "NumbersInReversedOrder\NumbersInReversedOrder.csproj", "{790837AC-DC78-4594-BF0A-D786F626F1BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumbersInReversedOrder", "NumbersInReversedOrder\NumbersInReversedOrder.csproj", "{790837AC-DC78-4594-BF0A-D786F626F1BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciNumbers", "FibonacciNumbers\FibonacciNumbers.csproj", "{3512FA75-6578-45D8-962C-97E879CF5191}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibonacciNumbers", "FibonacciNumbers\FibonacciNumbers.csproj", "{3512FA75-6578-45D8-962C-97E879CF5191}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeChecker", "PrimeChecker\PrimeChecker.csproj", "{06955854-CE24-4B43-A3CB-227459D65D53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeChecker", "PrimeChecker\PrimeChecker.csproj", "{06955854-CE24-4B43-A3CB-227459D65D53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimesInGivenRange", "PrimesInGivenRange\PrimesInGivenRange.csproj", "{F8B6BBDE-9895-4EB8-9797-1694934B41F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -243,6 +245,10 @@ Global
 		{06955854-CE24-4B43-A3CB-227459D65D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06955854-CE24-4B43-A3CB-227459D65D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06955854-CE24-4B43-A3CB-227459D65D53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8B6BBDE-9895-4EB8-9797-1694934B41F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B6BBDE-9895-4EB8-9797-1694934B41F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B6BBDE-9895-4EB8-9797-1694934B41F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B6BBDE-9895-4EB8-9797-1694934B41F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

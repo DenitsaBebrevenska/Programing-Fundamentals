@@ -81,15 +81,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibonacciNumbers", "Fibonac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeChecker", "PrimeChecker\PrimeChecker.csproj", "{06955854-CE24-4B43-A3CB-227459D65D53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimesInGivenRange", "PrimesInGivenRange\PrimesInGivenRange.csproj", "{F8B6BBDE-9895-4EB8-9797-1694934B41F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimesInGivenRange", "PrimesInGivenRange\PrimesInGivenRange.csproj", "{F8B6BBDE-9895-4EB8-9797-1694934B41F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeProperties", "CubeProperties\CubeProperties.csproj", "{B4D67026-59AE-4855-AACF-F4E888BF149D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CubeProperties", "CubeProperties\CubeProperties.csproj", "{B4D67026-59AE-4855-AACF-F4E888BF149D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryCalculator", "GeometryCalculator\GeometryCalculator.csproj", "{21D9470D-6C47-483B-B5A8-192159CB4DB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeometryCalculator", "GeometryCalculator\GeometryCalculator.csproj", "{21D9470D-6C47-483B-B5A8-192159CB4DB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterNumber", "MasterNumber\MasterNumber.csproj", "{A877F704-3354-45D4-A520-4AAB94F6ADED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MasterNumber", "MasterNumber\MasterNumber.csproj", "{A877F704-3354-45D4-A520-4AAB94F6ADED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Factorial.csproj", "{7546AAFD-0642-40AD-8260-F50BA4A457D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factorial", "Factorial\Factorial.csproj", "{7546AAFD-0642-40AD-8260-F50BA4A457D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialTrailingZeroes", "FactorialTrailingZeroes\FactorialTrailingZeroes.csproj", "{138FCE98-ED3A-4584-BA52-36C5F4DC5A56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -273,6 +275,10 @@ Global
 		{7546AAFD-0642-40AD-8260-F50BA4A457D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7546AAFD-0642-40AD-8260-F50BA4A457D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7546AAFD-0642-40AD-8260-F50BA4A457D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{138FCE98-ED3A-4584-BA52-36C5F4DC5A56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{138FCE98-ED3A-4584-BA52-36C5F4DC5A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{138FCE98-ED3A-4584-BA52-36C5F4DC5A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{138FCE98-ED3A-4584-BA52-36C5F4DC5A56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

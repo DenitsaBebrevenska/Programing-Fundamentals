@@ -97,6 +97,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Substring_RefactoringExerci
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactoringInstructionSet", "RefactoringInstructionSet\RefactoringInstructionSet.csproj", "{B148D0FA-868E-4ECD-A95C-106DE4AAFA43}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactoringBePositive", "RefactoringBePositive\RefactoringBePositive.csproj", "{4FB33DD4-6773-4274-9151-94F36DC3F34C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -291,6 +293,10 @@ Global
 		{B148D0FA-868E-4ECD-A95C-106DE4AAFA43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B148D0FA-868E-4ECD-A95C-106DE4AAFA43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B148D0FA-868E-4ECD-A95C-106DE4AAFA43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FB33DD4-6773-4274-9151-94F36DC3F34C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB33DD4-6773-4274-9151-94F36DC3F34C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB33DD4-6773-4274-9151-94F36DC3F34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB33DD4-6773-4274-9151-94F36DC3F34C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -83,6 +83,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeManipulation", "SafeMan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrabAndGo", "GrabAndGo\GrabAndGo.csproj", "{F029CAAA-5192-4700-ABD7-DCCFF01C7570}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaIngredients", "PizzaIngredients\PizzaIngredients.csproj", "{DD18A4A1-0191-4443-88B8-806C95731DE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -249,6 +251,10 @@ Global
 		{F029CAAA-5192-4700-ABD7-DCCFF01C7570}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F029CAAA-5192-4700-ABD7-DCCFF01C7570}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F029CAAA-5192-4700-ABD7-DCCFF01C7570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD18A4A1-0191-4443-88B8-806C95731DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD18A4A1-0191-4443-88B8-806C95731DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD18A4A1-0191-4443-88B8-806C95731DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD18A4A1-0191-4443-88B8-806C95731DE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

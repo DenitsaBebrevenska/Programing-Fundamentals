@@ -99,6 +99,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactoringInstructionSet",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactoringBePositive", "RefactoringBePositive\RefactoringBePositive.csproj", "{4FB33DD4-6773-4274-9151-94F36DC3F34C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceOfCommands", "SequenceOfCommands\SequenceOfCommands.csproj", "{63076CFF-9920-487F-8A5C-A110794C825A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -297,6 +299,10 @@ Global
 		{4FB33DD4-6773-4274-9151-94F36DC3F34C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FB33DD4-6773-4274-9151-94F36DC3F34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FB33DD4-6773-4274-9151-94F36DC3F34C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63076CFF-9920-487F-8A5C-A110794C825A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63076CFF-9920-487F-8A5C-A110794C825A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63076CFF-9920-487F-8A5C-A110794C825A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63076CFF-9920-487F-8A5C-A110794C825A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

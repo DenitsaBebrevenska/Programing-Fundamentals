@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipulateArray", "Manipula
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeManipulation", "SafeManipulation\SafeManipulation.csproj", "{D069979D-2410-4046-9F8B-6A920900AC45}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrabAndGo", "GrabAndGo\GrabAndGo.csproj", "{F029CAAA-5192-4700-ABD7-DCCFF01C7570}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{D069979D-2410-4046-9F8B-6A920900AC45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D069979D-2410-4046-9F8B-6A920900AC45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D069979D-2410-4046-9F8B-6A920900AC45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F029CAAA-5192-4700-ABD7-DCCFF01C7570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F029CAAA-5192-4700-ABD7-DCCFF01C7570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F029CAAA-5192-4700-ABD7-DCCFF01C7570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F029CAAA-5192-4700-ABD7-DCCFF01C7570}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

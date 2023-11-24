@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortNumbers", "SortNumbers\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareNumbers", "SquareNumbers\SquareNumbers.csproj", "{8113E070-63BE-40D0-A14C-735CD1A9F3DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountNumbers", "CountNumbers\CountNumbers.csproj", "{C7760FE0-C674-41F4-BE2E-88B853ACEF36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{8113E070-63BE-40D0-A14C-735CD1A9F3DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8113E070-63BE-40D0-A14C-735CD1A9F3DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8113E070-63BE-40D0-A14C-735CD1A9F3DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7760FE0-C674-41F4-BE2E-88B853ACEF36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7760FE0-C674-41F4-BE2E-88B853ACEF36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7760FE0-C674-41F4-BE2E-88B853ACEF36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7760FE0-C674-41F4-BE2E-88B853ACEF36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

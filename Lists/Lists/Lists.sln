@@ -49,13 +49,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DrumSet", "DrumSet\DrumSet.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SplitByWordCasing", "SplitByWordCasing\SplitByWordCasing.csproj", "{EF352F69-0E79-4002-8791-108AFC9A2CF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortNumbers", "SortNumbers\SortNumbers.csproj", "{79E1A908-D97A-48F9-BE5E-257B13EA52CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortNumbers", "SortNumbers\SortNumbers.csproj", "{79E1A908-D97A-48F9-BE5E-257B13EA52CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareNumbers", "SquareNumbers\SquareNumbers.csproj", "{8113E070-63BE-40D0-A14C-735CD1A9F3DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareNumbers", "SquareNumbers\SquareNumbers.csproj", "{8113E070-63BE-40D0-A14C-735CD1A9F3DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountNumbers", "CountNumbers\CountNumbers.csproj", "{C7760FE0-C674-41F4-BE2E-88B853ACEF36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountNumbers", "CountNumbers\CountNumbers.csproj", "{C7760FE0-C674-41F4-BE2E-88B853ACEF36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSequenceOfEqualElements", "MaxSequenceOfEqualElements\MaxSequenceOfEqualElements.csproj", "{0AA5D304-505E-45D0-96C9-D9C8DC920CED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxSequenceOfEqualElements", "MaxSequenceOfEqualElements\MaxSequenceOfEqualElements.csproj", "{0AA5D304-505E-45D0-96C9-D9C8DC920CED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeList2", "ChangeList2\ChangeList2.csproj", "{8B0EB2C6-E6D0-42D8-AA90-7F5B443A071E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{0AA5D304-505E-45D0-96C9-D9C8DC920CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AA5D304-505E-45D0-96C9-D9C8DC920CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AA5D304-505E-45D0-96C9-D9C8DC920CED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B0EB2C6-E6D0-42D8-AA90-7F5B443A071E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B0EB2C6-E6D0-42D8-AA90-7F5B443A071E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B0EB2C6-E6D0-42D8-AA90-7F5B443A071E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B0EB2C6-E6D0-42D8-AA90-7F5B443A071E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

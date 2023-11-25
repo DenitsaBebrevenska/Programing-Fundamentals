@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchForANumber", "SearchF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestIncreasingSubsequence", "LongestIncreasingSubsequence\LongestIncreasingSubsequence.csproj", "{89FF8A3C-31F9-4E8F-9FB7-4F26FD1D3561}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayManipulator", "ArrayManipulator\ArrayManipulator.csproj", "{8D0DB9CD-B568-45BF-AEF4-FAF0B37B877C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{89FF8A3C-31F9-4E8F-9FB7-4F26FD1D3561}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89FF8A3C-31F9-4E8F-9FB7-4F26FD1D3561}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89FF8A3C-31F9-4E8F-9FB7-4F26FD1D3561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D0DB9CD-B568-45BF-AEF4-FAF0B37B877C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0DB9CD-B568-45BF-AEF4-FAF0B37B877C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D0DB9CD-B568-45BF-AEF4-FAF0B37B877C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0DB9CD-B568-45BF-AEF4-FAF0B37B877C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

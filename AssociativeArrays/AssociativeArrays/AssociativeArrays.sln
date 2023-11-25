@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest3Numbers", "Largest3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortWordsSorted", "ShortWordsSorted\ShortWordsSorted.csproj", "{011EE93E-C146-4F13-9CDB-9F0E8E2855A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phonebook", "Phonebook\Phonebook.csproj", "{16117D01-E8B2-4BC2-9973-DD63F6A2E707}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{011EE93E-C146-4F13-9CDB-9F0E8E2855A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{011EE93E-C146-4F13-9CDB-9F0E8E2855A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{011EE93E-C146-4F13-9CDB-9F0E8E2855A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16117D01-E8B2-4BC2-9973-DD63F6A2E707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16117D01-E8B2-4BC2-9973-DD63F6A2E707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16117D01-E8B2-4BC2-9973-DD63F6A2E707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16117D01-E8B2-4BC2-9973-DD63F6A2E707}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

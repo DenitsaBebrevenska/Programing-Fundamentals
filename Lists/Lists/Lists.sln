@@ -57,13 +57,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountNumbers", "CountNumber
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxSequenceOfEqualElements", "MaxSequenceOfEqualElements\MaxSequenceOfEqualElements.csproj", "{0AA5D304-505E-45D0-96C9-D9C8DC920CED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeList2", "ChangeList2\ChangeList2.csproj", "{8B0EB2C6-E6D0-42D8-AA90-7F5B443A071E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChangeList2", "ChangeList2\ChangeList2.csproj", "{8B0EB2C6-E6D0-42D8-AA90-7F5B443A071E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchForANumber", "SearchForANumber\SearchForANumber.csproj", "{4ADCBAF5-B203-4002-9151-A7D7C0912106}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchForANumber", "SearchForANumber\SearchForANumber.csproj", "{4ADCBAF5-B203-4002-9151-A7D7C0912106}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestIncreasingSubsequence", "LongestIncreasingSubsequence\LongestIncreasingSubsequence.csproj", "{89FF8A3C-31F9-4E8F-9FB7-4F26FD1D3561}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestIncreasingSubsequence", "LongestIncreasingSubsequence\LongestIncreasingSubsequence.csproj", "{89FF8A3C-31F9-4E8F-9FB7-4F26FD1D3561}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayManipulator", "ArrayManipulator\ArrayManipulator.csproj", "{8D0DB9CD-B568-45BF-AEF4-FAF0B37B877C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayManipulator", "ArrayManipulator\ArrayManipulator.csproj", "{8D0DB9CD-B568-45BF-AEF4-FAF0B37B877C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumReversedNumbers", "SumReversedNumbers\SumReversedNumbers.csproj", "{020A04B6-2949-4D1E-9475-96B83237F29D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +197,10 @@ Global
 		{8D0DB9CD-B568-45BF-AEF4-FAF0B37B877C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D0DB9CD-B568-45BF-AEF4-FAF0B37B877C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D0DB9CD-B568-45BF-AEF4-FAF0B37B877C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{020A04B6-2949-4D1E-9475-96B83237F29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020A04B6-2949-4D1E-9475-96B83237F29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020A04B6-2949-4D1E-9475-96B83237F29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020A04B6-2949-4D1E-9475-96B83237F29D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

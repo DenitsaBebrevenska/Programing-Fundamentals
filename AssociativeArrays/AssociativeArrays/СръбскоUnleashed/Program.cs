@@ -55,16 +55,6 @@ namespace СръбскоUnleashed
 		}
 	}
 
-	internal class Concert
-	{
-		public string Singer { get; set; }
-		public uint TotalGain { get; set; }
-
-		public Concert(string singer, uint totalGain)
-		{
-			Singer = singer;
-			TotalGain = totalGain;
-		}
-	}
+	
 
 }

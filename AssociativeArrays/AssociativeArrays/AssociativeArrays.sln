@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "СръбскоUnleashed", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortTimes", "SortTimes\SortTimes.csproj", "{BDC14FD2-6795-4722-999B-3D309C48F5ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddFilter", "OddFilter\OddFilter.csproj", "{80D1F605-AAB5-40C9-B599-7FB29D091200}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{BDC14FD2-6795-4722-999B-3D309C48F5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDC14FD2-6795-4722-999B-3D309C48F5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDC14FD2-6795-4722-999B-3D309C48F5ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80D1F605-AAB5-40C9-B599-7FB29D091200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D1F605-AAB5-40C9-B599-7FB29D091200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D1F605-AAB5-40C9-B599-7FB29D091200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D1F605-AAB5-40C9-B599-7FB29D091200}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

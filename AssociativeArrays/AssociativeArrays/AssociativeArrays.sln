@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddFilter", "OddFilter\OddF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmuneSystem", "ImmuneSystem\ImmuneSystem.csproj", "{1054B76F-0755-4C3A-ABC5-FBCE30786FE1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupermarketDatabase", "SupermarketDatabase\SupermarketDatabase.csproj", "{9EB5811C-441F-4797-85EC-CEE3F4B9B73B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{1054B76F-0755-4C3A-ABC5-FBCE30786FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1054B76F-0755-4C3A-ABC5-FBCE30786FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1054B76F-0755-4C3A-ABC5-FBCE30786FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EB5811C-441F-4797-85EC-CEE3F4B9B73B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB5811C-441F-4797-85EC-CEE3F4B9B73B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB5811C-441F-4797-85EC-CEE3F4B9B73B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB5811C-441F-4797-85EC-CEE3F4B9B73B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

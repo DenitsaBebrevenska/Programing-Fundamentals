@@ -57,17 +57,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogsAggregator", "LogsAggre
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LegendaryFarming", "LegendaryFarming\LegendaryFarming.csproj", "{CB38E7F3-DA4E-4225-8E7A-CB80965B9511}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "СръбскоUnleashed", "СръбскоUnleashed\СръбскоUnleashed.csproj", "{8B4B9F9D-15A1-4450-9F17-33267C12BE69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "СръбскоUnleashed", "СръбскоUnleashed\СръбскоUnleashed.csproj", "{8B4B9F9D-15A1-4450-9F17-33267C12BE69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortTimes", "SortTimes\SortTimes.csproj", "{BDC14FD2-6795-4722-999B-3D309C48F5ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortTimes", "SortTimes\SortTimes.csproj", "{BDC14FD2-6795-4722-999B-3D309C48F5ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddFilter", "OddFilter\OddFilter.csproj", "{80D1F605-AAB5-40C9-B599-7FB29D091200}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OddFilter", "OddFilter\OddFilter.csproj", "{80D1F605-AAB5-40C9-B599-7FB29D091200}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmuneSystem", "ImmuneSystem\ImmuneSystem.csproj", "{1054B76F-0755-4C3A-ABC5-FBCE30786FE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImmuneSystem", "ImmuneSystem\ImmuneSystem.csproj", "{1054B76F-0755-4C3A-ABC5-FBCE30786FE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupermarketDatabase", "SupermarketDatabase\SupermarketDatabase.csproj", "{9EB5811C-441F-4797-85EC-CEE3F4B9B73B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SupermarketDatabase", "SupermarketDatabase\SupermarketDatabase.csproj", "{9EB5811C-441F-4797-85EC-CEE3F4B9B73B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingValidation", "ParkingValidation\ParkingValidation.csproj", "{0C601DEE-6132-477F-8F6F-271E7278957E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParkingValidation", "ParkingValidation\ParkingValidation.csproj", "{0C601DEE-6132-477F-8F6F-271E7278957E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteFlip", "ByteFlip\ByteFlip.csproj", "{A20B499C-6E5F-478B-A4BC-29213C0F91F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +209,10 @@ Global
 		{0C601DEE-6132-477F-8F6F-271E7278957E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C601DEE-6132-477F-8F6F-271E7278957E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C601DEE-6132-477F-8F6F-271E7278957E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A20B499C-6E5F-478B-A4BC-29213C0F91F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A20B499C-6E5F-478B-A4BC-29213C0F91F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A20B499C-6E5F-478B-A4BC-29213C0F91F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A20B499C-6E5F-478B-A4BC-29213C0F91F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

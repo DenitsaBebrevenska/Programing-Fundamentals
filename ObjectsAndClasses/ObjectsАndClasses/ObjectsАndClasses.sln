@@ -57,6 +57,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountWorkingDays", "CountWo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CirclesIntersection", "CirclesIntersection\CirclesIntersection.csproj", "{2887585E-AEB4-4820-A327-4259FFEED6DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageGrades", "AverageGrades\AverageGrades.csproj", "{B48243C3-3826-4BF0-8A5E-D54D22F59D7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{2887585E-AEB4-4820-A327-4259FFEED6DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2887585E-AEB4-4820-A327-4259FFEED6DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2887585E-AEB4-4820-A327-4259FFEED6DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B48243C3-3826-4BF0-8A5E-D54D22F59D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B48243C3-3826-4BF0-8A5E-D54D22F59D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B48243C3-3826-4BF0-8A5E-D54D22F59D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B48243C3-3826-4BF0-8A5E-D54D22F59D7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

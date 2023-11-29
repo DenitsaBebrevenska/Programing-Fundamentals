@@ -13,17 +13,12 @@ namespace RectanglePosition
 		public int Width { get; set; }
 		public int Height { get; set; }
 
-		public Point BottomRightCorner
-		{
-			get
+		public Point BottomRightCorner =>
+			new()
 			{
-				return new Point
-				{
-					X = TopLeftCorner.X + Width,
-					Y = TopLeftCorner.Y + Height
-				};
-			}
-		}
+				X = TopLeftCorner.X + Width,
+				Y = TopLeftCorner.Y + Height
+			};
 
 		public Rectangle(Point topLeftCorner, int width, int height)
 		{

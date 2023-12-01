@@ -4,54 +4,14 @@
 	{
 		static void Main()
 		{
-			Dictionary<Town, List<Student>> townStudents = new Dictionary<Town, List<Student>>();
-			string input;
-			Town town = new Town();
+			Dictionary<Town, List<Student>> townStudents = PopulateInitialDictionary();
 
-			while ((input = Console.ReadLine()) != "End")
-			{
-				
-				if (!input.Contains('|'))
-				{
-					string[] townArgs = input.Split(new char[]{'=','>'}, StringSplitOptions.RemoveEmptyEntries);
-					string townName = townArgs[0].Trim();
-					string[] seatArgs = townArgs[1].Split(' ', StringSplitOptions.RemoveEmptyEntries);
-					int seatAmount = int.Parse(seatArgs[0]);
-					town = new Town()
-					{
-						Name = townName,
-						Seats = seatAmount
-					};
-					townStudents.Add(town, new List<Student>());
-				}
-				else
-				{
-					string[] studentArgs = input.Split('|', StringSplitOptions.RemoveEmptyEntries);
-					string studentName = studentArgs[0].Trim();
-					string studentEmail = studentArgs[1].Trim();
-					string registration = studentArgs[2].Trim();
-					DateTime studentRegistration = DateTime.ParseExact(registration, "d-MMM-yyyy", null);
-
-					townStudents[town].Add(new Student(studentName, studentEmail, studentRegistration));
-				}
-			}
-
-			Dictionary<Town, List<Student>> orderedStudentsTown = new Dictionary<Town, List<Student>>();
-
-			foreach (var kvp in townStudents)
-			{
-				
-				List<Student> students = kvp.Value.OrderBy(s => s.DateOfRegistration).
-					ThenBy(s => s.Name).
-					ThenBy(s => s.Email).
-					ToList();
-				orderedStudentsTown.Add(kvp.Key, students);
-			}
-
+			townStudents = OrderStudents(townStudents);
+			
 			List<Town> townList = new List<Town>();
 			int groupsFormed = 0;
 
-			foreach (var kvp in orderedStudentsTown.OrderBy(x => x.Key.Name))
+			foreach (var kvp in townStudents.OrderBy(x => x.Key.Name))
 			{
 				Town t = kvp.Key;
 				townList.Add(t);
@@ -108,6 +68,58 @@
 					Console.WriteLine($"{t.Name} => {string.Join(", ", emails)}");
 				}
 			}
+		}
+
+		static Dictionary<Town, List<Student>> PopulateInitialDictionary()
+		{
+			Dictionary<Town, List<Student>> townStudents = new Dictionary<Town, List<Student>>();
+			string input;
+			Town town = new Town();
+
+			while ((input = Console.ReadLine()) != "End")
+			{
+				
+				if (!input.Contains('|'))
+				{
+					string[] townArgs = input.Split(new char[]{'=','>'}, StringSplitOptions.RemoveEmptyEntries);
+					string townName = townArgs[0].Trim();
+					string[] seatArgs = townArgs[1].Split(' ', StringSplitOptions.RemoveEmptyEntries);
+					int seatAmount = int.Parse(seatArgs[0]);
+					town = new Town()
+					{
+						Name = townName,
+						Seats = seatAmount
+					};
+					townStudents.Add(town, new List<Student>());
+				}
+				else
+				{
+					string[] studentArgs = input.Split('|', StringSplitOptions.RemoveEmptyEntries);
+					string studentName = studentArgs[0].Trim();
+					string studentEmail = studentArgs[1].Trim();
+					string registration = studentArgs[2].Trim();
+					DateTime studentRegistration = DateTime.ParseExact(registration, "d-MMM-yyyy", null);
+
+					townStudents[town].Add(new Student(studentName, studentEmail, studentRegistration));
+				}
+			}
+			return townStudents;
+		}
+
+		static Dictionary<Town, List<Student>> OrderStudents(Dictionary<Town, List<Student>> townStudents)
+		{
+			Dictionary<Town, List<Student>> orderedStudentsTown = new Dictionary<Town, List<Student>>();
+			foreach (var kvp in townStudents)
+			{
+				
+				List<Student> students = kvp.Value.OrderBy(s => s.DateOfRegistration).
+					ThenBy(s => s.Name).
+					ThenBy(s => s.Email).
+					ToList();
+				orderedStudentsTown.Add(kvp.Key, students);
+			}
+
+			return orderedStudentsTown;
 		}
 	}
 

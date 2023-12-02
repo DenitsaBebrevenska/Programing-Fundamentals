@@ -69,7 +69,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MentorGroup", "MentorGroup\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentGroups", "StudentGroups\StudentGroups.csproj", "{C85566C4-7798-4D0A-93E8-3AFF18F65C43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleCatalogue_Archive", "VehicleCatalogue_Archive\VehicleCatalogue_Archive.csproj", "{E29B8828-39C2-421E-A551-DF8470101B47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleCatalogue_Archive", "VehicleCatalogue_Archive\VehicleCatalogue_Archive.csproj", "{E29B8828-39C2-421E-A551-DF8470101B47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jarvis", "Jarvis\Jarvis.csproj", "{0723CB3B-8C4A-4FA0-9E67-F0ED51B18B93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +215,10 @@ Global
 		{E29B8828-39C2-421E-A551-DF8470101B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E29B8828-39C2-421E-A551-DF8470101B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E29B8828-39C2-421E-A551-DF8470101B47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0723CB3B-8C4A-4FA0-9E67-F0ED51B18B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0723CB3B-8C4A-4FA0-9E67-F0ED51B18B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0723CB3B-8C4A-4FA0-9E67-F0ED51B18B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0723CB3B-8C4A-4FA0-9E67-F0ED51B18B93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

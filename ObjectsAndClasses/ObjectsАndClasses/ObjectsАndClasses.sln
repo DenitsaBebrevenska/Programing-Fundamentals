@@ -71,7 +71,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentGroups", "StudentGro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleCatalogue_Archive", "VehicleCatalogue_Archive\VehicleCatalogue_Archive.csproj", "{E29B8828-39C2-421E-A551-DF8470101B47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jarvis", "Jarvis\Jarvis.csproj", "{0723CB3B-8C4A-4FA0-9E67-F0ED51B18B93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jarvis", "Jarvis\Jarvis.csproj", "{0723CB3B-8C4A-4FA0-9E67-F0ED51B18B93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PunctuationFinder", "PunctuationFinder\PunctuationFinder.csproj", "{5076237E-96FB-4BEF-840F-3D041FB0FE8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +221,10 @@ Global
 		{0723CB3B-8C4A-4FA0-9E67-F0ED51B18B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0723CB3B-8C4A-4FA0-9E67-F0ED51B18B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0723CB3B-8C4A-4FA0-9E67-F0ED51B18B93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5076237E-96FB-4BEF-840F-3D041FB0FE8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5076237E-96FB-4BEF-840F-3D041FB0FE8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5076237E-96FB-4BEF-840F-3D041FB0FE8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5076237E-96FB-4BEF-840F-3D041FB0FE8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

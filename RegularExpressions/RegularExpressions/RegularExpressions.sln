@@ -45,7 +45,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KeyReplacer", "KeyReplacer\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidUsernames", "ValidUsernames\ValidUsernames.csproj", "{30A33D1D-31EB-42F3-A433-9724B4094DBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryMess", "QueryMess\QueryMess.csproj", "{92932E28-E3EB-4008-A74A-EFDCEFE82B22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueryMess", "QueryMess\QueryMess.csproj", "{92932E28-E3EB-4008-A74A-EFDCEFE82B22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseYourChains,Buddy", "UseYourChains,Buddy\UseYourChains,Buddy.csproj", "{28A85257-ABF1-4887-9AE9-0CC76491CF32}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{92932E28-E3EB-4008-A74A-EFDCEFE82B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92932E28-E3EB-4008-A74A-EFDCEFE82B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92932E28-E3EB-4008-A74A-EFDCEFE82B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28A85257-ABF1-4887-9AE9-0CC76491CF32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A85257-ABF1-4887-9AE9-0CC76491CF32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A85257-ABF1-4887-9AE9-0CC76491CF32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A85257-ABF1-4887-9AE9-0CC76491CF32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

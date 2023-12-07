@@ -39,9 +39,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtractSentencesByKeyword",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CameraView", "CameraView\CameraView.csproj", "{F673E52D-72B0-43A9-A2AD-764A9DC39E5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather", "Weather\Weather.csproj", "{9B83F4FF-0D18-42F0-B381-9765E4C1B27A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weather", "Weather\Weather.csproj", "{9B83F4FF-0D18-42F0-B381-9765E4C1B27A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyReplacer", "KeyReplacer\KeyReplacer.csproj", "{BF682E2D-A9AD-4C19-BF92-954D106B3A2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KeyReplacer", "KeyReplacer\KeyReplacer.csproj", "{BF682E2D-A9AD-4C19-BF92-954D106B3A2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidUsernames", "ValidUsernames\ValidUsernames.csproj", "{30A33D1D-31EB-42F3-A433-9724B4094DBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{BF682E2D-A9AD-4C19-BF92-954D106B3A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF682E2D-A9AD-4C19-BF92-954D106B3A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF682E2D-A9AD-4C19-BF92-954D106B3A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30A33D1D-31EB-42F3-A433-9724B4094DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A33D1D-31EB-42F3-A433-9724B4094DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A33D1D-31EB-42F3-A433-9724B4094DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A33D1D-31EB-42F3-A433-9724B4094DBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

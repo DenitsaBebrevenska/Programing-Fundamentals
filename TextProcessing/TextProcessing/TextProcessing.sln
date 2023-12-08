@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TreasureFinder", "TreasureF
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MorseCodeTranslator", "MorseCodeTranslator\MorseCodeTranslator.csproj", "{55A67DCD-1668-4B67-AF83-0010F7A92A31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTML", "HTML\HTML.csproj", "{9631C55B-3ABB-4208-A3A1-AED5E2ED1814}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HTML", "HTML\HTML.csproj", "{9631C55B-3ABB-4208-A3A1-AED5E2ED1814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountSubstringOccurrences", "CountSubstringOccurrences\CountSubstringOccurrences.csproj", "{0204BA0A-5881-4D1B-8B85-F9C3CB771042}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{9631C55B-3ABB-4208-A3A1-AED5E2ED1814}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9631C55B-3ABB-4208-A3A1-AED5E2ED1814}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9631C55B-3ABB-4208-A3A1-AED5E2ED1814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0204BA0A-5881-4D1B-8B85-F9C3CB771042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0204BA0A-5881-4D1B-8B85-F9C3CB771042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0204BA0A-5881-4D1B-8B85-F9C3CB771042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0204BA0A-5881-4D1B-8B85-F9C3CB771042}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertFromBase10ToBaseN", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertFromBaseNToBase10", "ConvertFromBaseNToBase10\ConvertFromBaseNToBase10.csproj", "{07990217-378E-4E9B-A6CB-B28A4EF456F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnicodeCharacters", "UnicodeCharacters\UnicodeCharacters.csproj", "{57ABECEA-F878-486C-9F5F-118BFB855B85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{07990217-378E-4E9B-A6CB-B28A4EF456F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07990217-378E-4E9B-A6CB-B28A4EF456F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07990217-378E-4E9B-A6CB-B28A4EF456F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57ABECEA-F878-486C-9F5F-118BFB855B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57ABECEA-F878-486C-9F5F-118BFB855B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57ABECEA-F878-486C-9F5F-118BFB855B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57ABECEA-F878-486C-9F5F-118BFB855B85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -39,15 +39,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MorseCodeTranslator", "Mors
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HTML", "HTML\HTML.csproj", "{9631C55B-3ABB-4208-A3A1-AED5E2ED1814}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountSubstringOccurrences", "CountSubstringOccurrences\CountSubstringOccurrences.csproj", "{0204BA0A-5881-4D1B-8B85-F9C3CB771042}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountSubstringOccurrences", "CountSubstringOccurrences\CountSubstringOccurrences.csproj", "{0204BA0A-5881-4D1B-8B85-F9C3CB771042}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindromes", "Palindromes\Palindromes.csproj", "{1044CC00-82BC-4626-8551-5E5E22674340}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindromes", "Palindromes\Palindromes.csproj", "{1044CC00-82BC-4626-8551-5E5E22674340}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertFromBase10ToBaseN", "ConvertFromBase10ToBaseN\ConvertFromBase10ToBaseN.csproj", "{C9B8004F-F167-44AB-B6E6-6F9AABA32288}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertFromBase10ToBaseN", "ConvertFromBase10ToBaseN\ConvertFromBase10ToBaseN.csproj", "{C9B8004F-F167-44AB-B6E6-6F9AABA32288}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertFromBaseNToBase10", "ConvertFromBaseNToBase10\ConvertFromBaseNToBase10.csproj", "{07990217-378E-4E9B-A6CB-B28A4EF456F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertFromBaseNToBase10", "ConvertFromBaseNToBase10\ConvertFromBaseNToBase10.csproj", "{07990217-378E-4E9B-A6CB-B28A4EF456F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnicodeCharacters", "UnicodeCharacters\UnicodeCharacters.csproj", "{57ABECEA-F878-486C-9F5F-118BFB855B85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnicodeCharacters", "UnicodeCharacters\UnicodeCharacters.csproj", "{57ABECEA-F878-486C-9F5F-118BFB855B85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicExchangeableWords", "MagicExchangeableWords\MagicExchangeableWords.csproj", "{0098329D-FC25-486C-9243-5E02F97CBB40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{57ABECEA-F878-486C-9F5F-118BFB855B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57ABECEA-F878-486C-9F5F-118BFB855B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57ABECEA-F878-486C-9F5F-118BFB855B85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0098329D-FC25-486C-9243-5E02F97CBB40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0098329D-FC25-486C-9243-5E02F97CBB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0098329D-FC25-486C-9243-5E02F97CBB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0098329D-FC25-486C-9243-5E02F97CBB40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

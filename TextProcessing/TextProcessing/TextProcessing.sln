@@ -51,7 +51,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnicodeCharacters", "Unicod
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MagicExchangeableWords", "MagicExchangeableWords\MagicExchangeableWords.csproj", "{0098329D-FC25-486C-9243-5E02F97CBB40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumBigNumbers", "SumBigNumbers\SumBigNumbers.csproj", "{CF520A7B-6BAA-4455-B544-2347B5618C05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumBigNumbers", "SumBigNumbers\SumBigNumbers.csproj", "{CF520A7B-6BAA-4455-B544-2347B5618C05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MelrahShake", "MelrahShake\MelrahShake.csproj", "{B5100386-6AA6-49A9-B8C2-2A1C8FDD0E6D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{CF520A7B-6BAA-4455-B544-2347B5618C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF520A7B-6BAA-4455-B544-2347B5618C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF520A7B-6BAA-4455-B544-2347B5618C05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5100386-6AA6-49A9-B8C2-2A1C8FDD0E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5100386-6AA6-49A9-B8C2-2A1C8FDD0E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5100386-6AA6-49A9-B8C2-2A1C8FDD0E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5100386-6AA6-49A9-B8C2-2A1C8FDD0E6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertFromBaseNToBase10", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnicodeCharacters", "UnicodeCharacters\UnicodeCharacters.csproj", "{57ABECEA-F878-486C-9F5F-118BFB855B85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicExchangeableWords", "MagicExchangeableWords\MagicExchangeableWords.csproj", "{0098329D-FC25-486C-9243-5E02F97CBB40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MagicExchangeableWords", "MagicExchangeableWords\MagicExchangeableWords.csproj", "{0098329D-FC25-486C-9243-5E02F97CBB40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumBigNumbers", "SumBigNumbers\SumBigNumbers.csproj", "{CF520A7B-6BAA-4455-B544-2347B5618C05}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{0098329D-FC25-486C-9243-5E02F97CBB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0098329D-FC25-486C-9243-5E02F97CBB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0098329D-FC25-486C-9243-5E02F97CBB40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF520A7B-6BAA-4455-B544-2347B5618C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF520A7B-6BAA-4455-B544-2347B5618C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF520A7B-6BAA-4455-B544-2347B5618C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF520A7B-6BAA-4455-B544-2347B5618C05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

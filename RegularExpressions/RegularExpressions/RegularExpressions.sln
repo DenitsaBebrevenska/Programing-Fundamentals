@@ -51,6 +51,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UseYourChains,Buddy", "UseY
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Censorship", "Censorship\Censorship.csproj", "{3F359A16-3753-4EA7-B8E4-312987E594AC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailMe", "EmailMe\EmailMe.csproj", "{4E001431-D9CF-4EDA-83D4-B4DEF2AB8D12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{3F359A16-3753-4EA7-B8E4-312987E594AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F359A16-3753-4EA7-B8E4-312987E594AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F359A16-3753-4EA7-B8E4-312987E594AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E001431-D9CF-4EDA-83D4-B4DEF2AB8D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E001431-D9CF-4EDA-83D4-B4DEF2AB8D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E001431-D9CF-4EDA-83D4-B4DEF2AB8D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E001431-D9CF-4EDA-83D4-B4DEF2AB8D12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

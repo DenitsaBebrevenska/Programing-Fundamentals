@@ -47,7 +47,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidUsernames", "ValidUser
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueryMess", "QueryMess\QueryMess.csproj", "{92932E28-E3EB-4008-A74A-EFDCEFE82B22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseYourChains,Buddy", "UseYourChains,Buddy\UseYourChains,Buddy.csproj", "{28A85257-ABF1-4887-9AE9-0CC76491CF32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UseYourChains,Buddy", "UseYourChains,Buddy\UseYourChains,Buddy.csproj", "{28A85257-ABF1-4887-9AE9-0CC76491CF32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Censorship", "Censorship\Censorship.csproj", "{3F359A16-3753-4EA7-B8E4-312987E594AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{28A85257-ABF1-4887-9AE9-0CC76491CF32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28A85257-ABF1-4887-9AE9-0CC76491CF32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28A85257-ABF1-4887-9AE9-0CC76491CF32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F359A16-3753-4EA7-B8E4-312987E594AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F359A16-3753-4EA7-B8E4-312987E594AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F359A16-3753-4EA7-B8E4-312987E594AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F359A16-3753-4EA7-B8E4-312987E594AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

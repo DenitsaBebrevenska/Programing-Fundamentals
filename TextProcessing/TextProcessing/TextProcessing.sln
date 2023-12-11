@@ -55,7 +55,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumBigNumbers", "SumBigNumb
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MelrahShake", "MelrahShake\MelrahShake.csproj", "{B5100386-6AA6-49A9-B8C2-2A1C8FDD0E6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorsCodeUpgraded", "MorsCodeUpgraded\MorsCodeUpgraded.csproj", "{64DA32E2-5BDB-46D8-8BCC-7ECAEF20B956}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MorsCodeUpgraded", "MorsCodeUpgraded\MorsCodeUpgraded.csproj", "{64DA32E2-5BDB-46D8-8BCC-7ECAEF20B956}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlyLetters", "OnlyLetters\OnlyLetters.csproj", "{F2218604-8505-45C6-AC17-0A63831913BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{64DA32E2-5BDB-46D8-8BCC-7ECAEF20B956}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64DA32E2-5BDB-46D8-8BCC-7ECAEF20B956}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64DA32E2-5BDB-46D8-8BCC-7ECAEF20B956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2218604-8505-45C6-AC17-0A63831913BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2218604-8505-45C6-AC17-0A63831913BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2218604-8505-45C6-AC17-0A63831913BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2218604-8505-45C6-AC17-0A63831913BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -59,6 +59,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MorsCodeUpgraded", "MorsCod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlyLetters", "OnlyLetters\OnlyLetters.csproj", "{F2218604-8505-45C6-AC17-0A63831913BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailStatistics", "EmailStatistics\EmailStatistics.csproj", "{A7F58BB2-0E7C-438A-8D43-EAFA17B854BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{F2218604-8505-45C6-AC17-0A63831913BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2218604-8505-45C6-AC17-0A63831913BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2218604-8505-45C6-AC17-0A63831913BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7F58BB2-0E7C-438A-8D43-EAFA17B854BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F58BB2-0E7C-438A-8D43-EAFA17B854BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F58BB2-0E7C-438A-8D43-EAFA17B854BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F58BB2-0E7C-438A-8D43-EAFA17B854BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
